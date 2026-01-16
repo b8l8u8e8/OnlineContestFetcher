@@ -1,0 +1,115 @@
+{
+  "generated_at": "2026-01-16T12:23:02.379085+00:00",
+  "contests": [
+    {
+      "site": "洛谷",
+      "name": "『LHB-OI』Round 1",
+      "start": "2026-01-17T00:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "『GTOI』Round 2",
+      "start": "2026-01-17T06:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
+      "start": "2026-01-17T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Biweekly Contest 174",
+      "start": "2026-01-17T14:30:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round 1073 (Div. 1)",
+      "start": "2026-01-17T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round 1073 (Div. 2)",
+      "start": "2026-01-17T14:35:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 485",
+      "start": "2026-01-18T02:30:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-262-Div.1】洛谷 1 月月赛 III",
+      "start": "2026-01-18T06:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-262-Div.2】洛谷 1 月月赛 III",
+      "start": "2026-01-18T06:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客周赛 Round 127",
+      "start": "2026-01-18T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 4)",
+      "start": "2026-01-18T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-01-23T14:35:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9",
+      "start": "2026-01-24T06:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
+      "start": "2026-01-24T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest 213 (Div. 1)",
+      "start": "2026-01-25T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-01-29T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-01-29T14:35:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
+      "start": "2026-01-31T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
+      "start": "2026-02-01T10:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "2026牛客寒假算法基础集训营1",
+      "start": "2026-02-03T06:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "2026牛客寒假算法基础集训营2",
+      "start": "2026-02-05T06:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客2026年情人节比赛",
+      "start": "2026-02-14T11:00:00+00:00"
+    }
+  ]
+}
