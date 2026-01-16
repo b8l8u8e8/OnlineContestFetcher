@@ -29,12 +29,17 @@ jobs:
         run: |
           python contest_task.py
 
+      # 调试步骤：检查文件是否存在
+      - name: Check if contests.json exists
+        run: |
+          ls -al .   # 列出当前目录的文件，确保文件存在
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/contests.json
+          git add contests.json  # <-- 正确的路径
           if git diff --cached --quiet; then
             echo "No changes"
           else
