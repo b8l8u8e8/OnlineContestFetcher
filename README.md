@@ -12,23 +12,18 @@
 
 1. 克隆这个仓库到本地：
     ```bash
-    git clone https://github.com/yourusername/ContestScraper.git
+    git clone https://github.com/b8l8u8e8/OnlineContestFetcher.git
     ```
 
-2. 安装所需的 Python 库：
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. 修改脚本中的输出文件路径：
+2. 修改脚本中的输出文件路径：
     - 打开 `contest_task.py`，找到 `OUTPUT_FILE`，将其修改为你的实际路径。
 
-4. 运行脚本：
+3. 运行脚本：
     ```bash
     python contest_task.py
     ```
 
-5. 结果会保存在指定的 `OUTPUT_FILE` 路径中，文件格式为 JSON。
+4. 结果会保存在指定的 `OUTPUT_FILE` 路径中，文件格式为 JSON。
 
 ## GitHub Actions 设置
 
