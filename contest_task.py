@@ -22,7 +22,7 @@ from requests.adapters import HTTPAdapter, Retry
 from bs4 import BeautifulSoup
 
 # ========= ① 这里填写绝对路径 =========
-OUTPUT_FILE = Path('/www/wwwroot/acm.jie86.cn/contests.json')   # <-- 请改成你的绝对路径
+OUTPUT_FILE = Path('contests.json')   # <-- 请改成你的绝对路径
 # ====================================
 
 TZ_CN = timezone(timedelta(hours=8))
