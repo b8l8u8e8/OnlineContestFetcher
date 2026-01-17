@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-17T10:27:07.220702+00:00",
+  "generated_at": "2026-01-17T12:53:07.816608+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
-      "start": "2026-01-17T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 174",
@@ -95,6 +90,11 @@
       "site": "牛客",
       "name": "2026牛客寒假算法基础集训营2",
       "start": "2026-02-05T06:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 444",
+      "start": "2026-02-07T12:00:00+00:00"
     },
     {
       "site": "牛客",
