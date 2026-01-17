@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-16T22:27:53.204598+00:00",
+  "generated_at": "2026-01-17T02:05:54.900104+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "『LHB-OI』Round 1",
-      "start": "2026-01-17T00:00:00+00:00"
-    },
     {
       "site": "洛谷",
       "name": "『GTOI』Round 2",
@@ -53,12 +48,12 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 4)",
+      "name": "Codeforces Round 1074 (Div. 4)",
       "start": "2026-01-18T14:35:00+00:00"
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1075 (Div. 2)",
       "start": "2026-01-23T14:35:00+00:00"
     },
     {
@@ -78,12 +73,12 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 1)",
+      "name": "Codeforces Round 1076 (Div. 1)",
       "start": "2026-01-29T14:35:00+00:00"
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1076 (Div. 2)",
       "start": "2026-01-29T14:35:00+00:00"
     },
     {
