@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-17T04:36:52.365760+00:00",
+  "generated_at": "2026-01-17T06:39:23.380164+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "『GTOI』Round 2",
-      "start": "2026-01-17T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
