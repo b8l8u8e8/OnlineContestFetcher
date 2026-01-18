@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-18T10:27:59.571505+00:00",
+  "generated_at": "2026-01-18T12:53:09.704849+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 127",
-      "start": "2026-01-18T11:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1074 (Div. 4)",
