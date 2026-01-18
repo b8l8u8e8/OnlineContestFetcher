@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-18T16:32:28.345817+00:00",
+  "generated_at": "2026-01-18T18:36:03.786913+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1074 (Div. 4)",
-      "start": "2026-01-18T14:35:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1075 (Div. 2)",
@@ -30,6 +25,11 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest 213 (Div. 1)",
       "start": "2026-01-25T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start": "2026-01-25T14:35:00+00:00"
     },
     {
       "site": "Codeforces",
@@ -70,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 444",
       "start": "2026-02-07T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-02-08T14:35:00+00:00"
     },
     {
       "site": "牛客",
