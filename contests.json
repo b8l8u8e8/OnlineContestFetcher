@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-01-19T08:41:42.529341+00:00",
+  "generated_at": "2026-01-19T10:36:41.568953+00:00",
   "contests": [
+    {
+      "site": "牛客",
+      "name": "牛客练习赛148",
+      "start": "2026-01-23T11:00:00+00:00"
+    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1075 (Div. 2)",
@@ -47,6 +52,11 @@
       "start": "2026-01-29T14:35:00+00:00"
     },
     {
+      "site": "牛客",
+      "name": "牛客小白月赛128",
+      "start": "2026-01-30T11:00:00+00:00"
+    },
+    {
       "site": "洛谷",
       "name": "【LGR-263-Div.4】洛谷入门赛 #43 · 洛谷 2026",
       "start": "2026-01-30T11:00:00+00:00"
@@ -60,6 +70,11 @@
       "site": "AtCoder",
       "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
       "start": "2026-02-01T10:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客周赛 Round 129",
+      "start": "2026-02-01T11:00:00+00:00"
     },
     {
       "site": "牛客",
@@ -80,11 +95,6 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-02-08T14:35:00+00:00"
-    },
-    {
-      "site": "牛客",
-      "name": "牛客2026年情人节比赛",
-      "start": "2026-02-14T11:00:00+00:00"
     }
   ]
 }
