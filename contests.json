@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T02:23:26.125015+00:00",
+  "generated_at": "2026-01-19T04:56:22.877501+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -20,6 +20,11 @@
       "site": "力扣",
       "name": "Weekly Contest 486",
       "start": "2026-01-25T02:30:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客周赛 Round 128",
+      "start": "2026-01-25T11:00:00+00:00"
     },
     {
       "site": "AtCoder",
