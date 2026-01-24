@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T14:26:16.357565+00:00",
+  "generated_at": "2026-01-24T16:32:46.165230+00:00",
   "contests": [
     {
       "site": "力扣",
@@ -55,6 +55,11 @@
       "site": "AtCoder",
       "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
       "start": "2026-01-31T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Biweekly Contest 175",
+      "start": "2026-01-31T14:30:00+00:00"
     },
     {
       "site": "AtCoder",
