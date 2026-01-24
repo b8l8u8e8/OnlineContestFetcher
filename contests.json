@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-24T04:39:52.815222+00:00",
+  "generated_at": "2026-01-24T06:40:37.531966+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9",
-      "start": "2026-01-24T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
@@ -35,6 +30,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round 1076 (Div. 3)",
       "start": "2026-01-25T14:35:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "[ICPC2024 Chengdu R] ICPC 2024 区域赛成都站重现赛",
+      "start": "2026-01-26T05:00:00+00:00"
     },
     {
       "site": "Codeforces",
