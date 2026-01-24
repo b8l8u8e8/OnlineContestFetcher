@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-24T08:34:59.843502+00:00",
+  "generated_at": "2026-01-24T10:28:20.784491+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "洛谷 2025 年度试题推荐选集",
-      "start": "2026-01-24T09:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
