@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-24T10:28:20.784491+00:00",
+  "generated_at": "2026-01-24T12:54:23.933573+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
-      "start": "2026-01-24T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Weekly Contest 486",
@@ -97,9 +92,19 @@
       "start": "2026-02-08T09:05:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
+      "start": "2026-02-13T10:00:00+00:00"
+    },
+    {
       "site": "牛客",
       "name": "牛客2026年情人节比赛",
       "start": "2026-02-14T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start": "2026-02-15T14:35:00+00:00"
     }
   ]
 }
