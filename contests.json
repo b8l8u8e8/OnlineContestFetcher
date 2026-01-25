@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-25T02:29:41.743974+00:00",
+  "generated_at": "2026-01-25T04:55:21.575145+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 486",
-      "start": "2026-01-25T02:30:00+00:00"
-    },
     {
       "site": "洛谷",
       "name": "chaynOI Round 2",
@@ -60,6 +55,11 @@
       "site": "力扣",
       "name": "Biweekly Contest 175",
       "start": "2026-01-31T14:30:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 487",
+      "start": "2026-02-01T02:30:00+00:00"
     },
     {
       "site": "AtCoder",
