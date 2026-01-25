@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-01-25T10:29:22.724504+00:00",
+  "generated_at": "2026-01-25T12:56:18.263607+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 128",
-      "start": "2026-01-25T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest 213 (Div. 1)",
-      "start": "2026-01-25T12:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1076 (Div. 3)",
@@ -20,6 +10,11 @@
       "site": "洛谷",
       "name": "[ICPC2024 Chengdu R] ICPC 2024 区域赛成都站重现赛",
       "start": "2026-01-26T05:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "嘟嘟哒哒大作战",
+      "start": "2026-01-29T10:00:00+00:00"
     },
     {
       "site": "Codeforces",
@@ -100,6 +95,11 @@
       "site": "牛客",
       "name": "牛客2026年情人节比赛",
       "start": "2026-02-14T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 445",
+      "start": "2026-02-14T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
