@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T08:41:30.622078+00:00",
+  "generated_at": "2026-01-27T10:36:05.699509+00:00",
   "contests": [
     {
       "site": "洛谷",
@@ -82,6 +82,16 @@
       "start": "2026-02-08T09:05:00+00:00"
     },
     {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-02-11T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-02-11T14:35:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
       "start": "2026-02-13T10:00:00+00:00"
@@ -95,11 +105,6 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 445",
       "start": "2026-02-14T12:00:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start": "2026-02-15T14:35:00+00:00"
     }
   ]
 }
