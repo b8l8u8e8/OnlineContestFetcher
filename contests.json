@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-29T08:51:36.221808+00:00",
+  "generated_at": "2026-01-29T10:45:47.386978+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "嘟嘟哒哒大作战",
-      "start": "2026-01-29T10:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1077 (Div. 1)",
@@ -87,14 +82,14 @@
       "start": "2026-02-08T09:05:00+00:00"
     },
     {
+      "site": "牛客",
+      "name": "牛客周赛 Round 130",
+      "start": "2026-02-08T11:00:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "AtCoder Regular Contest 214",
       "start": "2026-02-08T12:00:00+00:00"
-    },
-    {
-      "site": "牛客",
-      "name": "2026牛客寒假算法基础集训营4",
-      "start": "2026-02-09T06:00:00+00:00"
     },
     {
       "site": "Codeforces",
