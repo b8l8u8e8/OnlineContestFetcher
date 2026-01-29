@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T06:58:12.914979+00:00",
+  "generated_at": "2026-01-29T08:51:36.221808+00:00",
   "contests": [
     {
       "site": "洛谷",
@@ -87,6 +87,11 @@
       "start": "2026-02-08T09:05:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest 214",
+      "start": "2026-02-08T12:00:00+00:00"
+    },
+    {
       "site": "牛客",
       "name": "2026牛客寒假算法基础集训营4",
       "start": "2026-02-09T06:00:00+00:00"
@@ -105,11 +110,6 @@
       "site": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
       "start": "2026-02-13T10:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 445",
-      "start": "2026-02-14T12:00:00+00:00"
     }
   ]
 }
