@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-31T10:32:15.865394+00:00",
+  "generated_at": "2026-01-31T13:02:11.701001+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
-      "start": "2026-01-31T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 175",
@@ -95,6 +90,11 @@
       "site": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
       "start": "2026-02-13T10:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 445",
+      "start": "2026-02-14T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
