@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T18:42:00.926549+00:00",
+  "generated_at": "2026-01-31T20:33:34.656577+00:00",
   "contests": [
     {
       "site": "力扣",
@@ -95,6 +95,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 3)",
       "start": "2026-02-15T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Kotlin Heroes: Practice 14",
+      "start": "2026-02-21T14:30:00+00:00"
     }
   ]
 }
