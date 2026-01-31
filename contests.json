@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-01-31T02:33:05.665511+00:00",
+  "generated_at": "2026-01-31T05:05:05.100273+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "COCI 2025/2026 #4 Unofficial Mirror",
-      "start": "2026-01-31T07:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
@@ -20,6 +15,11 @@
       "site": "力扣",
       "name": "Weekly Contest 487",
       "start": "2026-02-01T02:30:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "COCI 2025/2026 #4 Unofficial Mirror",
+      "start": "2026-02-01T07:00:00+00:00"
     },
     {
       "site": "AtCoder",
