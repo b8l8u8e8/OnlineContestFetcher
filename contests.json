@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T13:04:29.562352+00:00",
+  "generated_at": "2026-02-01T14:33:22.083011+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -35,6 +35,11 @@
       "site": "力扣",
       "name": "Weekly Contest 488",
       "start": "2026-02-08T02:30:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-266-Div.2】洛谷 2 月月赛 I &「CROI」Round 3",
+      "start": "2026-02-08T06:00:00+00:00"
     },
     {
       "site": "Codeforces",
