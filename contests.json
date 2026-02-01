@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-01T08:40:39.862318+00:00",
+  "generated_at": "2026-02-01T10:34:03.112310+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
-      "start": "2026-02-01T10:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 129",
@@ -95,6 +90,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 3)",
       "start": "2026-02-15T14:35:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 446",
+      "start": "2026-02-21T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
