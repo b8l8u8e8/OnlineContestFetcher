@@ -1,0 +1,79 @@
+
+/* Navbar glass style for all viewports */
+.navbar.fixed-top{
+  position:fixed !important;
+  top:0;left:0;right:0;
+  z-index:1050;
+  backdrop-filter: blur(10px);
+  background: rgba(255,255,255,0.88) !important;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+
+/* Ensure content never hides behind fixed navbar (desktop & mobile) */
+body{padding-top:72px;}
+
+
+/* nav.css — Mobile nav overlay refinements (2025‑07‑28 ‑ fixed) */
+@media (max-width: 991.98px) {
+  .navbar.fixed-top{
+    position:fixed !important;
+    top:0; left:0; right:0;
+    z-index:1050;
+    backdrop-filter: blur(10px);
+    background: rgba(255,255,255,0.88) !important;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  }
+
+  .navbar-toggler{
+    border:none;
+    font-size:1.35rem;
+    padding:.25rem .75rem;
+    outline:none;
+  }
+
+  /* Overlay panel */
+  .navbar-collapse{
+    position:fixed !important;
+    top:56px;                      /* height of .navbar in Bootstrap */
+    left:0; right:0;
+    height:calc(100vh - 56px);
+    overflow-y:auto;
+    background:rgba(255,255,255,0.9);
+    backdrop-filter:blur(10px);
+    transform-origin:top;
+    transform:scaleY(0);
+    transition:transform .25s ease-out;
+    box-shadow:0 4px 16px rgba(0,0,0,0.08);
+    padding:1rem 1.25rem 4rem;     /* bottom padding so last item not hidden */
+  }
+
+  /* when collapsed menu is open (added .show by Bootstrap JS) */
+  .navbar-collapse.show{
+    transform:scaleY(1);
+  }
+
+  .navbar-collapse .nav-link{
+    font-size:1.05rem;
+    padding:.75rem 1rem;
+  }
+}
+
+/* Desktop: make sure main content clears fixed navbar */
+@media (min-width: 992px){
+  main, .main-content, .container-main{
+    padding-top:72px !important;   /* navbar height + breathing room */
+  }
+}
+
+/* Consistent top spacing for page headings */
+.page-title, h1{
+  margin-top:1.5rem;
+}
+
+/* Active nav link highlight */
+.nav-link.active{
+  background: rgba(103,80,164,0.1);
+  color: #6750A4 !important;
+  font-weight:600;
+}
