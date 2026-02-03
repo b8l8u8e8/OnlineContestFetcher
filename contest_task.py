@@ -190,8 +190,8 @@ def fetch_lc(lim: int):
     res.sort(key=lambda x: x['start'])
     return res[:lim]
 
-FETCHERS = [('Codeforces', fetch_cf, 'cf'), ('??', fetch_nk, 'nk'), ('AtCoder', fetch_ac, 'ac'),
-          ('??', fetch_lg, 'lg'), ('??', fetch_lc, 'lc')]
+FETCHERS = [('Codeforces', fetch_cf, 'cf'), ('\u725b\u5ba2', fetch_nk, 'nk'), ('AtCoder', fetch_ac, 'ac'),
+          ('\u6d1b\u8c37', fetch_lg, 'lg'), ('\u529b\u6263', fetch_lc, 'lc')]
 
 def get_contests():
     contests = []

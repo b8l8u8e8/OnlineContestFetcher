@@ -279,9 +279,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link <?= $cur==='index.php'?'active':'' ?>" href="index.html">首页</a></li>
-<li class="nav-item"><a class="nav-link <?= $cur==='calendar.php'?'active':'' ?>" href="calendar.html">竞赛日历</a></li>
-<li class="nav-item"><a class="nav-link <?= $cur==='about.php'?'active':'' ?>" href="about.html">关于</a></li>
+          <li class="nav-item"><a class="nav-link " href="index.html">首页</a></li>
+<li class="nav-item"><a class="nav-link " href="calendar.html">竞赛日历</a></li>
+<li class="nav-item"><a class="nav-link " href="about.html">关于</a></li>
         </ul>
       </div>
     </div>
@@ -293,13 +293,14 @@
       <h1>算法竞赛雷达</h1>
       <p>五大OJ平台近期比赛一网打尽，实时更新</p>
       <div class="stats-container">
-        
-        
-          <div class="stat-badge" id="lastUpdatedBadge" style="display:none;">
-            <i class="bi bi-arrow-repeat"></i>
-            <span id="lastUpdated">????????...</span>
-          </div>
-        
+        <div class="stat-badge">
+          <i class="bi bi-calendar-event"></i>
+          <span id="contestCount">0 场即将到来的比赛</span>
+        </div>
+        <div class="stat-badge" id="lastUpdatedBadge" style="display:none;">
+          <i class="bi bi-arrow-repeat"></i>
+          <span id="lastUpdated">最后更新：计算中...</span>
+        </div>
       </div>
     </div>
   </section>
@@ -334,8 +335,7 @@
   <!-- Footer 保持原样... -->
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script>
-    // 平台图片 & 颜色 映射
+<script>
     const platformImages = {
       "Codeforces": "images/codeforce.jpg",
       "牛客": "images/nowcoder.jpg",
@@ -354,16 +354,44 @@
     let DATA = [];
     let generatedAt = "";
 
+    function setActiveNav() {
+      const path = location.pathname.split('/').pop() || 'index.html';
+      document.querySelectorAll('.nav-link').forEach(link => {
+        if (link.getAttribute('href') === path) {
+          link.classList.add('active');
+        }
+      });
+    }
+
+    async function loadData(){
+      const res = await fetch('contests.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('数据加载失败');
+      const payload = await res.json();
+      DATA = payload.contests || [];
+      generatedAt = payload.generated_at || '';
+      const countEl = document.getElementById('contestCount');
+      if (countEl) countEl.textContent = `${DATA.length} 场即将到来的比赛`;
+      if (generatedAt) {
+        const el = document.getElementById('lastUpdated');
+        const badge = document.getElementById('lastUpdatedBadge');
+        if (el && badge) {
+          const upd = () => el.textContent = '最后更新：' + dayjs(generatedAt).fromNow();
+          upd();
+          badge.style.display = 'flex';
+          setInterval(upd, 60000);
+        }
+      }
+    }
 
     function renderContests(filter='all') {
       const grid = document.getElementById('contestGrid');
+      if (!grid) return;
       grid.innerHTML = '';
       const list = filter==='all'
         ? DATA
         : DATA.filter(c=>c.site===filter);
       list.sort((a,b)=>new Date(a.start)-new Date(b.start));
       list.forEach((c,i)=> grid.appendChild(createContestCard(c,i)));
-      // 浮动动画
       setTimeout(()=> document.querySelectorAll('.platform-img').forEach(img=> img.classList.add('floating')),100);
     }
 
@@ -375,7 +403,6 @@
       card.className = `contest-card animate__animated animate__fadeInUp`;
       card.style.animationDelay = `${idx*0.1}s`;
 
-      // 平台头像或占位符
       const platformImg = platformImages[contest.site]
         ? `<img src="${platformImages[contest.site]}" alt="${contest.site}" class="platform-img">`
         : `<div class="platform-img-placeholder" data-site="${contest.site}">
@@ -393,9 +420,9 @@
         <div class="card-body">
           <div class="contest-name">${contest.name}</div>
           <div class="contest-time">
-            <div class="time-label"><i class="bi bi-clock"></i> 开始时间 (北京时间)</div>
+            <div class="time-label"><i class="bi bi-clock"></i> 开始时间(北京时间)</div>
             <div class="time-value">${startTime.format('YYYY-MM-DD HH:mm')}</div>
-            <div class="countdown" data-start="${contest.start}">倒计时: 计算中...</div>
+            <div class="countdown" data-start="${contest.start}">倒计时 计算中...</div>
           </div>
         </div>
         <div class="card-footer">
@@ -411,16 +438,20 @@
       document.querySelectorAll('.countdown').forEach(el=>{
         const st = dayjs.utc(el.dataset.start).tz('Asia/Shanghai');
         if (st.isBefore(now)) {
-          el.textContent = '比赛已开始'; return;
+          el.textContent = '比赛已开始';
+          return;
         }
         const diff = st.diff(now);
         const d = Math.floor(diff/86400000);
         const h = Math.floor((diff%86400000)/3600000);
         const m = Math.floor((diff%3600000)/60000);
         const s = Math.floor((diff%60000)/1000);
-        let txt = ''; if(d>0) txt+=d+'天'; if(h>0) txt+=h+'小时';
-        if(m>0&&d===0) txt+=m+'分'; if(d===0&&h===0) txt+=s+'秒';
-        el.textContent = '倒计时: '+txt;
+        let txt = '';
+        if(d>0) txt+=d+'天';
+        if(h>0) txt+=h+'小时';
+        if(m>0&&d===0) txt+=m+'分钟';
+        if(d===0&&h===0) txt+=s+'秒';
+        el.textContent = '倒计时 ' + txt;
       });
     }
 
@@ -440,46 +471,8 @@
       return '算法竞赛';
     }
 
-    
-    function setActiveNav() {
-      const path = location.pathname.split('/').pop() || 'index.html';
-      document.querySelectorAll('.nav-link').forEach(link => {
-        if (link.getAttribute('href') === path) {
-          link.classList.add('active');
-        }
-      });
-    }
-
-    async function loadData(){
-      const res = await fetch('contests.json', { cache: 'no-store' });
-      if (!res.ok) throw new Error('??????');
-      const payload = await res.json();
-      DATA = payload.contests || [];
-      generatedAt = payload.generated_at || '';
-      document.getElementById('contestCount').textContent = `${DATA.length} ????????`;
-      if (generatedAt) {
-        const el = document.getElementById('lastUpdated');
-        const badge = document.getElementById('lastUpdatedBadge');
-        const upd = ()=> el.textContent = '?????' + dayjs(generatedAt).fromNow();
-        upd();
-        badge.style.display = 'flex';
-        setInterval(upd,60000);
-      }
-    }
-
     document.addEventListener('DOMContentLoaded', ()=>{
       setActiveNav();
-      loadData().then(()=>{
-      renderContests();
-      
-    }).catch(err=>{
-      document.getElementById('contestCount').textContent = "??????";
-      const grid = document.getElementById('contestGrid');
-      const empty = document.createElement('div');
-      empty.className = "text-center text-muted";
-      empty.textContent = err.message || "??????";
-      grid.appendChild(empty);
-    });
       document.querySelectorAll('.filter-btn').forEach(btn=>{
         btn.addEventListener('click', function(){
           document.querySelectorAll('.filter-btn').forEach(x=>x.classList.remove('active'));
@@ -488,13 +481,21 @@
         });
       });
 
-      
-
-      if (generatedAt) {
-        const el = document.querySelector('[data-iso]');
-        const upd = ()=> el.textContent = dayjs(generatedAt).fromNow();
-        upd(); setInterval(upd,60000);
-      }
+      loadData().then(()=>{
+        renderContests();
+        updateCountdowns();
+        setInterval(updateCountdowns,1000);
+      }).catch(err=>{
+        const countEl = document.getElementById('contestCount');
+        if (countEl) countEl.textContent = '数据加载失败';
+        const grid = document.getElementById('contestGrid');
+        if (grid) {
+          const empty = document.createElement('div');
+          empty.className = 'text-center text-muted';
+          empty.textContent = err.message || '数据加载失败';
+          grid.appendChild(empty);
+        }
+      });
     });
   </script>
 </body>

@@ -327,9 +327,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link <?= $cur==='index.php'?'active':'' ?>" href="index.html">首页</a></li>
-<li class="nav-item"><a class="nav-link <?= $cur==='calendar.php'?'active':'' ?>" href="calendar.html">竞赛日历</a></li>
-<li class="nav-item"><a class="nav-link <?= $cur==='about.php'?'active':'' ?>" href="about.html">关于</a></li>
+          <li class="nav-item"><a class="nav-link " href="index.html">首页</a></li>
+<li class="nav-item"><a class="nav-link " href="calendar.html">竞赛日历</a></li>
+<li class="nav-item"><a class="nav-link " href="about.html">关于</a></li>
         </ul>
       </div>
     </div>
@@ -356,10 +356,9 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js"></script>
 <script>
-
 async function loadData(){
   const res = await fetch('contests.json', { cache: 'no-store' });
-  if (!res.ok) throw new Error('??????');
+  if (!res.ok) throw new Error('数据加载失败');
   const payload = await res.json();
   return payload.contests || [];
 }
@@ -375,22 +374,24 @@ function setActiveNav() {
 
 function buildUpcoming(contests){
   const list = document.getElementById('upcomingList');
+  if (!list) return;
   list.innerHTML = '';
-  const upcoming = contests.filter(c=> new Date(c.start) >= new Date())
-    .sort((a,b)=> new Date(a.start)-new Date(b.start));
+  const upcoming = contests
+    .filter(c => new Date(c.start) >= new Date())
+    .sort((a, b) => new Date(a.start) - new Date(b.start));
   if (!upcoming.length){
     const li = document.createElement('li');
-    li.innerHTML = '<span class="text-muted">??????</span>';
+    li.innerHTML = '<span class="text-muted">暂无近期赛事</span>';
     list.appendChild(li);
     return;
   }
-  upcoming.forEach(c=>{
+  upcoming.forEach(c => {
     const li = document.createElement('li');
-    const d = new Date(c.start);
-    const mm = String(d.getMonth()+1).padStart(2,'0');
-    const dd = String(d.getDate()).padStart(2,'0');
-    const hh = String(d.getHours()).padStart(2,'0');
-    const mi = String(d.getMinutes()).padStart(2,'0');
+    const st = new Date(c.start);
+    const mm = String(st.getMonth()+1).padStart(2,'0');
+    const dd = String(st.getDate()).padStart(2,'0');
+    const hh = String(st.getHours()).padStart(2,'0');
+    const mi = String(st.getMinutes()).padStart(2,'0');
     li.innerHTML = `
       <div class="d-flex justify-content-between flex-wrap">
         <span class="fw-semibold">${c.site} | ${c.name}</span>
@@ -401,18 +402,26 @@ function buildUpcoming(contests){
   });
 }
 
-
 loadData().then(contests=>{
   const cal = new FullCalendar.Calendar(document.getElementById('calendar'),{
-  locale:'zh-cn',
-  themeSystem:'bootstrap5',
-  initialView:'dayGridMonth',
-  firstDay:1,
-  headerToolbar:{left:'prev,next today',center:'title',right:'dayGridMonth,timeGridWeek,listMonth'},
-  height:'auto',
-  events:contests.map(c=>({title:`${c.site} · ${c.name}`,start:c.start,url:c.url}))
+    locale:'zh-cn',
+    themeSystem:'bootstrap5',
+    initialView:'dayGridMonth',
+    firstDay:1,
+    headerToolbar:{left:'prev,next today',center:'title',right:'dayGridMonth,timeGridWeek,listMonth'},
+    height:'auto',
+    events:contests.map(c=>({title:`${c.site} | ${c.name}`,start:c.start,url:c.url}))
+  });
+  cal.render();
+  buildUpcoming(contests);
+}).catch(err=>{
+  const list = document.getElementById('upcomingList');
+  if (list) list.innerHTML = `<li><span class="text-muted">${err.message || '数据加载失败'}</span></li>`;
 });
-cal.render();
+
+document.addEventListener('DOMContentLoaded', ()=>{
+  setActiveNav();
+});
 </script>
 </body>
 </html>
