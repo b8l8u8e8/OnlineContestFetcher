@@ -1,57 +1,60 @@
-# ContestScraper
+# OnlineContestFetcher
 
-这是一个定时抓取编程比赛信息的脚本，支持抓取多个在线编程平台的比赛信息，并将比赛数据保存在一个 JSON 文件中。
+定时抓取各大 OJ 比赛信息并生成 `contests.json`，同时提供纯静态前端（位于 `docs/`）以便直接部署到 GitHub Pages。
 
 ## 功能
 
-- 支持抓取多个编程平台（如 Codeforces、牛客、AtCoder、洛谷、力扣）的竞赛数据。
-- 定时任务，每隔 2 小时抓取一次比赛数据并更新输出文件。
-- 结果保存为 JSON 格式，方便后续处理和展示。
+- 抓取 Codeforces / 牛客 / AtCoder / 洛谷 / 力扣的近期比赛
+- 定时更新 `contests.json`（GitHub Actions 定时任务）
+- 纯静态页面（`docs/index.html`、`docs/calendar.html`、`docs/about.html`）读取 `contests.json`
+- 适配 GitHub Pages
 
-## 使用方法
+## 目录结构
 
-1. 克隆这个仓库到本地：
-    ```bash
-    git clone https://github.com/b8l8u8e8/OnlineContestFetcher.git
-    ```
+- `contest_task.py`：抓取脚本
+- `contests.json`：最新比赛数据（Actions 会定时更新）
+- `docs/`：静态站点（GitHub Pages 从此目录发布）
 
-2. 修改脚本中的输出文件路径：
-    - 打开 `contest_task.py`，找到 `OUTPUT_FILE`，将其修改为你的实际路径。
+## 本地运行
 
-3. 运行脚本：
-    ```bash
-    python contest_task.py
-    ```
+1. 安装依赖：
+   ```bash
+   pip install requests beautifulsoup4
+   ```
 
-4. 结果会保存在指定的 `OUTPUT_FILE` 路径中，文件格式为 JSON。
+2. 运行抓取脚本：
+   ```bash
+   python contest_task.py
+   ```
 
-## GitHub Actions 设置
+3. 同步数据到静态站点目录：
+   ```bash
+   copy contests.json docs\contests.json
+   ```
 
-你可以设置 GitHub Actions 来定时执行这个脚本，具体请参考以下 `.github/workflows` 配置：
+4. 本地预览静态站点：
+   ```bash
+   cd docs
+   python -m http.server 8000
+   ```
+   浏览器访问 `http://localhost:8000/index.html`
 
-```yaml
-name: Contest Scraper
+## GitHub Actions
 
-on:
-  schedule:
-    - cron: '0 */2 * * *'  # 每 2 小时执行一次
-  push:
-    branches:
-      - main
+仓库已配置定时任务，会自动更新 `contests.json` 并同步到 `docs/contests.json`。
 
-jobs:
-  run-scraper:
-    runs-on: ubuntu-latest
+配置文件：` .github/workflows/contests.yml `
 
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: Run the script
-      run: python contest_task.py
+## GitHub Pages 部署
+
+在仓库 Settings → Pages 中设置：
+
+- Source: Deploy from a branch
+- Branch: `main`
+- Folder: `/docs`
+
+保存后即可访问静态站点。
+
+## 注意
+
+- 直接双击 `docs/index.html` 会因为浏览器安全策略导致 `fetch` 被拦截，请使用本地静态服务器或 GitHub Pages 访问。
