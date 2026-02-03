@@ -1,20 +1,15 @@
 {
-  "generated_at": "2026-02-03T05:17:33.269963+00:00",
+  "generated_at": "2026-02-03T07:01:25.361056+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "2026牛客寒假算法基础集训营1",
-      "start": "2026-02-03T06:00:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "COCI 2025/2026 #4 Unofficial Mirror",
-      "start": "2026-02-03T07:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "2026牛客寒假算法基础集训营2",
       "start": "2026-02-05T06:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "COCI 2025/2026 #4 Unofficial Mirror",
+      "start": "2026-02-06T07:00:00+00:00"
     },
     {
       "site": "牛客",
@@ -82,6 +77,11 @@
       "start": "2026-02-12T06:00:00+00:00"
     },
     {
+      "site": "牛客",
+      "name": "2026牛客寒假算法基础集训营6",
+      "start": "2026-02-13T06:00:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
       "start": "2026-02-13T10:00:00+00:00"
@@ -95,6 +95,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 3)",
       "start": "2026-02-15T14:35:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "FeSo4OI Long Round #1 春节欢乐赛",
+      "start": "2026-02-19T00:00:00+00:00"
     },
     {
       "site": "AtCoder",
