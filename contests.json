@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T07:02:43.663581+00:00",
+  "generated_at": "2026-02-04T08:53:24.274308+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -37,6 +37,11 @@
       "start": "2026-02-08T06:00:00+00:00"
     },
     {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-02-08T09:05:00+00:00"
+    },
+    {
       "site": "牛客",
       "name": "牛客周赛 Round 130",
       "start": "2026-02-08T11:00:00+00:00"
@@ -52,6 +57,11 @@
       "start": "2026-02-09T06:00:00+00:00"
     },
     {
+      "site": "洛谷",
+      "name": "NOSOI Round 1",
+      "start": "2026-02-10T06:00:00+00:00"
+    },
+    {
       "site": "牛客",
       "name": "2026牛客寒假算法基础集训营5",
       "start": "2026-02-11T06:00:00+00:00"
@@ -62,9 +72,14 @@
       "start": "2026-02-11T06:00:00+00:00"
     },
     {
-      "site": "洛谷",
-      "name": "【LGR-264-Div.3】洛谷基础赛 #30 & YLLOI Round 3",
-      "start": "2026-02-12T06:00:00+00:00"
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-02-11T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-02-11T14:35:00+00:00"
     },
     {
       "site": "牛客",
@@ -82,9 +97,24 @@
       "start": "2026-02-14T12:00:00+00:00"
     },
     {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start": "2026-02-15T14:35:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 446",
       "start": "2026-02-21T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Kotlin Heroes: Practice 14",
+      "start": "2026-02-21T14:30:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Kotlin Heroes: Episode 14",
+      "start": "2026-03-02T14:35:00+00:00"
     }
   ]
 }
