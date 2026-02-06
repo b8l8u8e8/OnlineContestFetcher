@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-06T05:17:59.647349+00:00",
+  "generated_at": "2026-02-06T07:03:39.279040+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "COCI 2025/2026 #4 Unofficial Mirror",
-      "start": "2026-02-06T07:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "2026牛客寒假算法基础集训营3",
@@ -75,6 +70,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-02-11T14:35:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-264-Div.3】洛谷基础赛 #30 & YLLOI Round 3",
+      "start": "2026-02-12T06:00:00+00:00"
     },
     {
       "site": "牛客",
