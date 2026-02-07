@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-07T10:34:17.104767+00:00",
+  "generated_at": "2026-02-07T13:03:41.594370+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 444",
-      "start": "2026-02-07T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Weekly Contest 488",
@@ -110,6 +105,11 @@
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest 215",
+      "start": "2026-02-22T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
