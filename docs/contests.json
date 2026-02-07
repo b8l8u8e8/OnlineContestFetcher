@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-02-07T05:08:34.272424+00:00",
+  "generated_at": "2026-02-07T06:53:30.739339+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "2026牛客寒假算法基础集训营3",
-      "start": "2026-02-07T06:00:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "「LCOI」Round 1",
-      "start": "2026-02-07T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 444",
@@ -87,6 +77,11 @@
       "start": "2026-02-13T10:00:00+00:00"
     },
     {
+      "site": "洛谷",
+      "name": "NFC-OI Round 1",
+      "start": "2026-02-14T00:30:00+00:00"
+    },
+    {
       "site": "牛客",
       "name": "牛客2026年情人节比赛",
       "start": "2026-02-14T11:00:00+00:00"
@@ -95,6 +90,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 445",
       "start": "2026-02-14T12:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客周赛 Round 131",
+      "start": "2026-02-15T11:00:00+00:00"
     },
     {
       "site": "Codeforces",
