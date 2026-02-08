@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T08:41:04.176941+00:00",
+  "generated_at": "2026-02-08T10:35:27.047728+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -22,9 +22,19 @@
       "start": "2026-02-09T06:00:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "AtCoder Weekday Contest 001 Beta",
+      "start": "2026-02-09T11:00:00+00:00"
+    },
+    {
       "site": "洛谷",
       "name": "NOSOI Round 1",
       "start": "2026-02-10T06:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Weekday Contest 002 Beta",
+      "start": "2026-02-10T11:00:00+00:00"
     },
     {
       "site": "牛客",
@@ -35,6 +45,11 @@
       "site": "洛谷",
       "name": "【LGR-267-Div.2】洛谷 2 月月赛 II & UTOI Round 1",
       "start": "2026-02-11T06:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Weekday Contest 003 Beta",
+      "start": "2026-02-11T11:00:00+00:00"
     },
     {
       "site": "Codeforces",
@@ -52,14 +67,14 @@
       "start": "2026-02-12T06:00:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "AtCoder Weekday Contest 004 Beta",
+      "start": "2026-02-12T11:00:00+00:00"
+    },
+    {
       "site": "牛客",
       "name": "2026牛客寒假算法基础集训营6",
       "start": "2026-02-13T06:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
-      "start": "2026-02-13T10:00:00+00:00"
     },
     {
       "site": "洛谷",
@@ -70,11 +85,6 @@
       "site": "牛客",
       "name": "牛客2026年情人节比赛",
       "start": "2026-02-14T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 445",
-      "start": "2026-02-14T12:00:00+00:00"
     },
     {
       "site": "力扣",
@@ -102,19 +112,9 @@
       "start": "2026-02-19T00:00:00+00:00"
     },
     {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 446",
-      "start": "2026-02-21T12:00:00+00:00"
-    },
-    {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest 215",
-      "start": "2026-02-22T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
