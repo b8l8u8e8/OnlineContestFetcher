@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-02-08T10:35:27.047728+00:00",
+  "generated_at": "2026-02-08T13:04:31.043106+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1078 (Div. 2)",
-      "start": "2026-02-08T09:05:00+00:00"
-    },
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 130",
-      "start": "2026-02-08T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest 214",
-      "start": "2026-02-08T12:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "2026牛客寒假算法基础集训营4",
@@ -77,6 +62,11 @@
       "start": "2026-02-13T06:00:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
+      "start": "2026-02-13T10:00:00+00:00"
+    },
+    {
       "site": "洛谷",
       "name": "NFC-OI Round 1",
       "start": "2026-02-14T00:30:00+00:00"
@@ -107,6 +97,11 @@
       "start": "2026-02-15T14:35:00+00:00"
     },
     {
+      "site": "牛客",
+      "name": "牛客2026年除夕娱乐赛",
+      "start": "2026-02-16T15:00:00+00:00"
+    },
+    {
       "site": "洛谷",
       "name": "FeSo4OI Long Round #1 春节欢乐赛",
       "start": "2026-02-19T00:00:00+00:00"
@@ -118,8 +113,13 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start": "2026-02-27T14:35:00+00:00"
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-02-22T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-02-22T14:35:00+00:00"
     }
   ]
 }
