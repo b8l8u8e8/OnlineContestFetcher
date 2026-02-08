@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-07T22:33:48.321643+00:00",
+  "generated_at": "2026-02-08T03:19:57.087944+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 488",
-      "start": "2026-02-08T02:30:00+00:00"
-    },
     {
       "site": "洛谷",
       "name": "【LGR-266-Div.2】洛谷 2 月月赛 I &「CROI」Round 3",
@@ -90,6 +85,11 @@
       "site": "力扣",
       "name": "Biweekly Contest 176",
       "start": "2026-02-14T14:30:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 489",
+      "start": "2026-02-15T02:30:00+00:00"
     },
     {
       "site": "牛客",
