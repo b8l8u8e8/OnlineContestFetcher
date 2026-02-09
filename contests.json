@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-09T09:02:19.009217+00:00",
+  "generated_at": "2026-02-09T11:00:26.898710+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Weekday Contest 0001 Beta",
-      "start": "2026-02-09T11:00:00+00:00"
-    },
     {
       "site": "洛谷",
       "name": "NOSOI Round 1",
@@ -60,6 +55,11 @@
       "site": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
       "start": "2026-02-13T10:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Weekday Contest 0005 Beta",
+      "start": "2026-02-13T11:00:00+00:00"
     },
     {
       "site": "洛谷",
