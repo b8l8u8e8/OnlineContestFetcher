@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-10T09:04:17.154226+00:00",
+  "generated_at": "2026-02-10T11:00:33.338460+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Weekday Contest 0002 Beta",
-      "start": "2026-02-10T11:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "2026牛客寒假算法基础集训营5",
@@ -70,6 +65,11 @@
       "site": "牛客",
       "name": "牛客2026年情人节比赛",
       "start": "2026-02-14T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 445",
+      "start": "2026-02-14T12:00:00+00:00"
     },
     {
       "site": "力扣",
