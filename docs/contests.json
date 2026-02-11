@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-11T10:57:18.286451+00:00",
+  "generated_at": "2026-02-11T13:26:18.947812+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Weekday Contest 0003 Beta",
-      "start": "2026-02-11T11:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1079 (Div. 1)",
@@ -95,6 +90,11 @@
       "site": "洛谷",
       "name": "FeSo4OI Long Round #1 春节欢乐赛",
       "start": "2026-02-19T00:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 446",
+      "start": "2026-02-21T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
