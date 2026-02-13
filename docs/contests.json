@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-13T05:23:57.922397+00:00",
+  "generated_at": "2026-02-13T07:07:39.049094+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "2026牛客寒假算法基础集训营6",
-      "start": "2026-02-13T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
@@ -115,6 +110,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 3)",
       "start": "2026-02-27T14:35:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客周赛 Round 133",
+      "start": "2026-03-01T11:00:00+00:00"
     },
     {
       "site": "Codeforces",
