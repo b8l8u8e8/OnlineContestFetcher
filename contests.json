@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-13T08:53:45.028811+00:00",
+  "generated_at": "2026-02-13T10:49:51.520246+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
-      "start": "2026-02-13T10:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Weekday Contest 0005 Beta",
@@ -40,6 +35,11 @@
       "site": "力扣",
       "name": "Weekly Contest 489",
       "start": "2026-02-15T02:30:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "RedStone OI Round 1 & 送钱赛",
+      "start": "2026-02-15T06:00:00+00:00"
     },
     {
       "site": "牛客",
@@ -77,9 +77,9 @@
       "start": "2026-02-17T11:00:00+00:00"
     },
     {
-      "site": "洛谷",
-      "name": "FeSo4OI Long Round #1 春节欢乐赛",
-      "start": "2026-02-19T00:00:00+00:00"
+      "site": "AtCoder",
+      "name": "AtCoder Weekday Contest 0008 Beta",
+      "start": "2026-02-18T11:00:00+00:00"
     },
     {
       "site": "Codeforces",
