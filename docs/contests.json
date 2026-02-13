@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T02:51:14.092782+00:00",
+  "generated_at": "2026-02-13T05:23:57.922397+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -62,6 +62,11 @@
       "start": "2026-02-16T06:00:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "AtCoder Weekday Contest 0006 Beta",
+      "start": "2026-02-16T11:00:00+00:00"
+    },
+    {
       "site": "洛谷",
       "name": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026",
       "start": "2026-02-16T12:30:00+00:00"
@@ -72,14 +77,14 @@
       "start": "2026-02-16T15:00:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "AtCoder Weekday Contest 0007 Beta",
+      "start": "2026-02-17T11:00:00+00:00"
+    },
+    {
       "site": "洛谷",
       "name": "FeSo4OI Long Round #1 春节欢乐赛",
       "start": "2026-02-19T00:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 446",
-      "start": "2026-02-21T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
@@ -90,11 +95,6 @@
       "site": "牛客",
       "name": "牛客周赛 Round 132",
       "start": "2026-02-22T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest 215",
-      "start": "2026-02-22T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
