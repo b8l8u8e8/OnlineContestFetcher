@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-13T22:40:14.890531+00:00",
+  "generated_at": "2026-02-14T02:38:33.220063+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "NFC-OI Round 1 & 情人节赛",
-      "start": "2026-02-14T00:30:00+00:00"
-    },
     {
       "site": "洛谷",
       "name": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛）",
@@ -75,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Weekday Contest 0008 Beta",
       "start": "2026-02-18T11:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "FeSo4OI Long Round #1 春节欢乐赛",
+      "start": "2026-02-19T00:00:00+00:00"
     },
     {
       "site": "AtCoder",
