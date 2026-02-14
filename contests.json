@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T14:34:00.820635+00:00",
+  "generated_at": "2026-02-14T16:38:45.865190+00:00",
   "contests": [
     {
       "site": "力扣",
@@ -20,6 +20,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round 1080 (Div. 3)",
       "start": "2026-02-15T14:35:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "「LCOI」Round 2 & 除夕赛",
+      "start": "2026-02-16T06:00:00+00:00"
     },
     {
       "site": "AtCoder",
@@ -70,11 +75,6 @@
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1",
-      "start": "2026-02-22T06:00:00+00:00"
     },
     {
       "site": "牛客",
