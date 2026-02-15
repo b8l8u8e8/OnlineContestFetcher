@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-15T02:52:03.700972+00:00",
+  "generated_at": "2026-02-15T06:59:15.184422+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "RedStone OI Round 1 & 送钱赛",
-      "start": "2026-02-15T06:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 131",
@@ -75,6 +70,11 @@
       "site": "力扣",
       "name": "Weekly Contest 490",
       "start": "2026-02-22T02:30:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1",
+      "start": "2026-02-22T06:00:00+00:00"
     },
     {
       "site": "牛客",
