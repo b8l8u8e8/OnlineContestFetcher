@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-15T10:34:25.420682+00:00",
+  "generated_at": "2026-02-15T13:05:44.653872+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 131",
-      "start": "2026-02-15T11:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1080 (Div. 3)",
