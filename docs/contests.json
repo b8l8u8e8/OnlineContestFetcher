@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-14T22:31:37.773210+00:00",
+  "generated_at": "2026-02-15T02:52:03.700972+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 489",
-      "start": "2026-02-15T02:30:00+00:00"
-    },
     {
       "site": "洛谷",
       "name": "RedStone OI Round 1 & 送钱赛",
@@ -75,6 +70,11 @@
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 490",
+      "start": "2026-02-22T02:30:00+00:00"
     },
     {
       "site": "牛客",
