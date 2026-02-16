@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-16T05:39:39.124003+00:00",
+  "generated_at": "2026-02-16T07:13:45.929840+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "「LCOI」Round 2 & 除夕赛",
-      "start": "2026-02-16T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Weekday Contest 0006 Beta",
@@ -85,6 +80,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-02-22T14:35:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "Construction Masters：yrOI R1",
+      "start": "2026-02-23T06:30:00+00:00"
     },
     {
       "site": "牛客",
