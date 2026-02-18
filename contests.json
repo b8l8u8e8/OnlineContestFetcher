@@ -1,20 +1,10 @@
 {
-  "generated_at": "2026-02-18T13:21:02.646827+00:00",
+  "generated_at": "2026-02-18T14:52:58.428875+00:00",
   "contests": [
     {
       "site": "洛谷",
       "name": "FeSo4OI Long Round #1 春节欢乐赛",
       "start": "2026-02-19T00:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Weekday Contest 0009 Beta",
-      "start": "2026-02-19T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Weekday Contest 0010 Beta",
-      "start": "2026-02-20T11:00:00+00:00"
     },
     {
       "site": "洛谷",
@@ -97,9 +87,19 @@
       "start": "2026-02-28T12:00:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "The 3rd Masters Championship-qual-",
+      "start": "2026-03-01T04:00:00+00:00"
+    },
+    {
       "site": "牛客",
       "name": "牛客周赛 Round 133",
       "start": "2026-03-01T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 448",
+      "start": "2026-03-07T12:00:00+00:00"
     }
   ]
 }
