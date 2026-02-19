@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T08:54:50.413763+00:00",
+  "generated_at": "2026-02-19T10:53:01.970252+00:00",
   "contests": [
     {
       "site": "洛谷",
@@ -57,6 +57,11 @@
       "start": "2026-02-23T14:35:00+00:00"
     },
     {
+      "site": "洛谷",
+      "name": "「DBOI」Round -1",
+      "start": "2026-02-24T05:00:00+00:00"
+    },
+    {
       "site": "Codeforces",
       "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
       "start": "2026-02-24T14:35:00+00:00"
@@ -75,11 +80,6 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 3)",
       "start": "2026-02-27T14:35:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
-      "start": "2026-02-28T06:00:00+00:00"
     },
     {
       "site": "AtCoder",
