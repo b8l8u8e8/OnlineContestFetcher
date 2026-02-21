@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-21T10:34:00.235250+00:00",
+  "generated_at": "2026-02-21T13:02:55.530644+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 446",
-      "start": "2026-02-21T12:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
@@ -100,6 +95,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 448",
       "start": "2026-03-07T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "UNIQUE VISION Programming Contest 2026 Spring (AtCoder Heuristic Contest 062)",
+      "start": "2026-03-14T06:00:00+00:00"
     }
   ]
 }
