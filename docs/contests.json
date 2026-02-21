@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-02-21T14:33:14.604591+00:00",
+  "generated_at": "2026-02-21T16:37:41.792300+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1081 (Div. 2)",
-      "start": "2026-02-21T14:35:00+00:00"
     },
     {
       "site": "力扣",
@@ -75,6 +70,11 @@
       "site": "牛客",
       "name": "牛客小白月赛129",
       "start": "2026-02-27T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start": "2026-02-27T14:35:00+00:00"
     },
     {
       "site": "AtCoder",
