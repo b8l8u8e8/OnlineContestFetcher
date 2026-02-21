@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-02-21T05:09:00.325726+00:00",
+  "generated_at": "2026-02-21T06:53:30.922322+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1",
-      "start": "2026-02-21T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 446",
@@ -70,6 +65,11 @@
       "site": "洛谷",
       "name": "【LGR-269-Div.2】洛谷 2 月月赛 VI & IXOI Round 1",
       "start": "2026-02-25T06:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【MX-X25】梦熊 X 组 · 欧尼恩赛 & FeOI Round 5",
+      "start": "2026-02-26T06:00:00+00:00"
     },
     {
       "site": "Codeforces",
