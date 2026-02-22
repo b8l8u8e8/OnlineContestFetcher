@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T02:47:21.211669+00:00",
+  "generated_at": "2026-02-22T05:18:15.082664+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -80,6 +80,11 @@
       "site": "力扣",
       "name": "Biweekly Contest 177",
       "start": "2026-02-28T14:30:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 491",
+      "start": "2026-03-01T02:30:00+00:00"
     },
     {
       "site": "AtCoder",
