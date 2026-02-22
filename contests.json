@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-02-22T05:18:15.082664+00:00",
+  "generated_at": "2026-02-22T06:57:51.256452+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Kotlin Heroes: Practice 14",
-      "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1",
-      "start": "2026-02-22T06:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 132",
@@ -27,24 +17,9 @@
       "start": "2026-02-23T06:30:00+00:00"
     },
     {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1082 (Div. 1)",
-      "start": "2026-02-23T14:35:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1082 (Div. 2)",
-      "start": "2026-02-23T14:35:00+00:00"
-    },
-    {
       "site": "洛谷",
       "name": "「DBOI」Round -1",
       "start": "2026-02-24T05:00:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
-      "start": "2026-02-24T14:35:00+00:00"
     },
     {
       "site": "洛谷",
@@ -57,19 +32,14 @@
       "start": "2026-02-26T06:00:00+00:00"
     },
     {
-      "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
-      "start": "2026-02-26T14:35:00+00:00"
-    },
-    {
       "site": "牛客",
       "name": "牛客小白月赛129",
       "start": "2026-02-27T11:00:00+00:00"
     },
     {
-      "site": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start": "2026-02-27T14:35:00+00:00"
+      "site": "洛谷",
+      "name": "【LGR-275-Div.4】洛谷入门赛 #44",
+      "start": "2026-02-27T11:00:00+00:00"
     },
     {
       "site": "AtCoder",
