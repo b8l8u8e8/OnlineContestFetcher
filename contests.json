@@ -1,20 +1,10 @@
 {
-  "generated_at": "2026-02-23T14:55:13.248955+00:00",
+  "generated_at": "2026-02-23T17:07:14.991857+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1082 (Div. 1)",
-      "start": "2026-02-23T14:35:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1082 (Div. 2)",
-      "start": "2026-02-23T14:35:00+00:00"
     },
     {
       "site": "洛谷",
@@ -87,6 +77,11 @@
       "start": "2026-03-01T11:00:00+00:00"
     },
     {
+      "site": "Codeforces",
+      "name": "Kotlin Heroes: Episode 14",
+      "start": "2026-03-02T14:35:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 448",
       "start": "2026-03-07T12:00:00+00:00"
@@ -100,6 +95,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 449",
       "start": "2026-03-14T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "start": "2026-03-16T14:35:00+00:00"
     }
   ]
 }
