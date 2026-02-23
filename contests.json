@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-02-23T05:38:17.817366+00:00",
+  "generated_at": "2026-02-23T07:14:56.794794+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "Construction Masters：yrOI R1",
-      "start": "2026-02-23T06:30:00+00:00"
     },
     {
       "site": "Codeforces",
@@ -60,6 +55,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 3)",
       "start": "2026-02-27T14:35:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
+      "start": "2026-02-28T06:00:00+00:00"
     },
     {
       "site": "AtCoder",
