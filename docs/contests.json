@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-02-25T14:57:18.514644+00:00",
+  "generated_at": "2026-02-25T17:14:08.918831+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
-      "start": "2026-02-25T14:35:00+00:00"
     },
     {
       "site": "洛谷",
@@ -100,6 +95,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 449",
       "start": "2026-03-14T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "start": "2026-03-16T14:35:00+00:00"
     }
   ]
 }
