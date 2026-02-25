@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T08:58:54.940555+00:00",
+  "generated_at": "2026-02-25T10:56:23.614485+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -87,6 +87,11 @@
       "start": "2026-03-07T12:00:00+00:00"
     },
     {
+      "site": "Codeforces",
+      "name": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+      "start": "2026-03-08T01:45:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "UNIQUE VISION Programming Contest 2026 Spring (AtCoder Heuristic Contest 062)",
       "start": "2026-03-14T06:00:00+00:00"
@@ -95,11 +100,6 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 449",
       "start": "2026-03-14T12:00:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Educational Codeforces Round 188 (Rated for Div. 2)",
-      "start": "2026-03-16T14:35:00+00:00"
     }
   ]
 }
