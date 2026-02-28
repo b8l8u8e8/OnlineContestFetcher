@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T02:28:36.486317+00:00",
+  "generated_at": "2026-02-28T04:58:14.442413+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -60,6 +60,11 @@
       "site": "洛谷",
       "name": "KTSC 2026 R1 Unofficial Mirror",
       "start": "2026-03-03T06:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客挑战赛86",
+      "start": "2026-03-06T11:00:00+00:00"
     },
     {
       "site": "AtCoder",
