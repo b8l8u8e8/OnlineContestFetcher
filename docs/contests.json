@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-02-28T16:34:41.574563+00:00",
+  "generated_at": "2026-02-28T18:41:57.479698+00:00",
   "contests": [
+    {
+      "site": "Codeforces",
+      "name": "Kotlin Heroes: Practice 14",
+      "start": "2026-02-21T14:30:00+00:00"
+    },
     {
       "site": "力扣",
       "name": "Weekly Contest 491",
@@ -32,6 +37,11 @@
       "start": "2026-03-02T05:00:00+00:00"
     },
     {
+      "site": "Codeforces",
+      "name": "Kotlin Heroes: Episode 14",
+      "start": "2026-03-02T14:35:00+00:00"
+    },
+    {
       "site": "洛谷",
       "name": "KTSC 2026 R1 Unofficial Mirror",
       "start": "2026-03-03T06:00:00+00:00"
@@ -52,9 +62,19 @@
       "start": "2026-03-07T12:00:00+00:00"
     },
     {
+      "site": "Codeforces",
+      "name": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+      "start": "2026-03-08T01:45:00+00:00"
+    },
+    {
       "site": "牛客",
       "name": "牛客周赛 Round 134",
       "start": "2026-03-08T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "start": "2026-03-08T14:35:00+00:00"
     },
     {
       "site": "牛客",
@@ -70,6 +90,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 449",
       "start": "2026-03-14T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "start": "2026-03-16T14:35:00+00:00"
     },
     {
       "site": "AtCoder",
