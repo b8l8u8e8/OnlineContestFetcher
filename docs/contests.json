@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-02-28T04:58:14.442413+00:00",
+  "generated_at": "2026-02-28T06:49:39.210481+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
-      "start": "2026-02-28T06:00:00+00:00"
     },
     {
       "site": "AtCoder",
