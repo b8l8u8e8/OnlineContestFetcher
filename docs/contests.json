@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-03-01T22:31:38.804874+00:00",
+  "generated_at": "2026-03-02T02:42:05.584470+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 14",
       "start": "2026-02-21T14:30:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "2026 省选赛前模板赛",
-      "start": "2026-03-02T00:00:00+00:00"
     },
     {
       "site": "洛谷",
