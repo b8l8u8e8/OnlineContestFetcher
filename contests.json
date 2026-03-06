@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-06T10:44:23.838206+00:00",
+  "generated_at": "2026-03-06T13:11:28.226471+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客挑战赛86",
-      "start": "2026-03-06T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 448",
