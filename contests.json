@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-07T10:31:11.266771+00:00",
+  "generated_at": "2026-03-07T13:01:10.351752+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 448",
-      "start": "2026-03-07T12:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
@@ -70,6 +65,11 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest++ 216",
       "start": "2026-03-22T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 451",
+      "start": "2026-03-28T12:00:00+00:00"
     }
   ]
 }
