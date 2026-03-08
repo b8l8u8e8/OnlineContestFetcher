@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-03-07T22:30:28.006183+00:00",
+  "generated_at": "2026-03-08T02:44:17.900821+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
       "start": "2026-03-08T01:45:00+00:00"
-    },
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 492",
-      "start": "2026-03-08T02:30:00+00:00"
     },
     {
       "site": "牛客",
@@ -45,6 +40,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-03-14T14:35:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 493",
+      "start": "2026-03-15T02:30:00+00:00"
     },
     {
       "site": "牛客",
