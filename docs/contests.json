@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-13T10:46:27.711820+00:00",
+  "generated_at": "2026-03-13T13:14:50.029362+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客练习赛149",
-      "start": "2026-03-13T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "UNIQUE VISION Programming Contest 2026 Spring (AtCoder Heuristic Contest 062)",
@@ -60,6 +55,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 450",
       "start": "2026-03-21T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-03-21T14:35:00+00:00"
     },
     {
       "site": "牛客",
