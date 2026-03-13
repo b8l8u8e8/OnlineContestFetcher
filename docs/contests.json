@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T08:51:27.766181+00:00",
+  "generated_at": "2026-03-13T10:46:27.711820+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -70,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest++ 216",
       "start": "2026-03-22T12:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-276-Div.3】洛谷蓝桥杯省赛模拟赛 2026",
+      "start": "2026-03-28T06:00:00+00:00"
     },
     {
       "site": "AtCoder",
