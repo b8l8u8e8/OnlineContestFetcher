@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-14T10:36:27.916817+00:00",
+  "generated_at": "2026-03-14T13:07:11.759199+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 449",
-      "start": "2026-03-14T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 178",
@@ -80,6 +75,11 @@
       "site": "AtCoder",
       "name": "AtCoder Grand Contest 077",
       "start": "2026-03-29T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Heuristic Contest 063",
+      "start": "2026-04-03T10:00:00+00:00"
     }
   ]
 }
