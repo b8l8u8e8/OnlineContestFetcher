@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-03-14T05:13:34.746718+00:00",
+  "generated_at": "2026-03-14T06:58:00.322528+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "UNIQUE VISION Programming Contest 2026 Spring (AtCoder Heuristic Contest 062)",
-      "start": "2026-03-14T06:00:00+00:00"
-    },
-    {
-      "site": "洛谷",
-      "name": "『1&0』OI Round 1",
-      "start": "2026-03-14T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 449",
@@ -85,6 +75,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 451",
       "start": "2026-03-28T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Grand Contest 077",
+      "start": "2026-03-29T12:00:00+00:00"
     }
   ]
 }
