@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-14T14:35:29.596481+00:00",
+  "generated_at": "2026-03-14T16:39:34.666028+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1086 (Div. 2)",
-      "start": "2026-03-14T14:35:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Weekly Contest 493",
