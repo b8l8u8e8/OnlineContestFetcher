@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-14T13:07:11.759199+00:00",
+  "generated_at": "2026-03-14T14:35:29.596481+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Biweekly Contest 178",
-      "start": "2026-03-14T14:30:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1086 (Div. 2)",
@@ -80,6 +75,11 @@
       "site": "AtCoder",
       "name": "AtCoder Heuristic Contest 063",
       "start": "2026-04-03T10:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "o.OI Round -1",
+      "start": "2026-04-04T06:00:00+00:00"
     }
   ]
 }
