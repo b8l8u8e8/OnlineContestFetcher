@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-14T22:33:48.607920+00:00",
+  "generated_at": "2026-03-15T03:16:32.232386+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 493",
-      "start": "2026-03-15T02:30:00+00:00"
-    },
     {
       "site": "洛谷",
       "name": "【MX-J25】梦熊 J 组 · 及普赛 & Cfz Round 8（同步赛）",
@@ -40,6 +35,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-03-21T14:35:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 494",
+      "start": "2026-03-22T02:30:00+00:00"
     },
     {
       "site": "牛客",
