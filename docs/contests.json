@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T13:04:01.517427+00:00",
+  "generated_at": "2026-03-21T14:33:39.208880+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -55,6 +55,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 451",
       "start": "2026-03-28T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Biweekly Contest 179",
+      "start": "2026-03-28T14:30:00+00:00"
     },
     {
       "site": "Codeforces",
