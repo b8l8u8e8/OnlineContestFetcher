@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-22T05:21:18.915143+00:00",
+  "generated_at": "2026-03-22T06:59:37.968376+00:00",
   "contests": [
-    {
-      "site": "洛谷",
-      "name": "【MX-X26】梦熊 X 组 · 鱼鱼蒸赛 & Cfz Round 7（同步赛）",
-      "start": "2026-03-22T06:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 136",
@@ -95,6 +90,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 452",
       "start": "2026-04-04T12:00:00+00:00"
+    },
+    {
+      "site": "洛谷",
+      "name": "【LGR-277-Div.2】洛谷 4 月月赛 I &『LBA-OI』Round 1",
+      "start": "2026-04-05T06:00:00+00:00"
     }
   ]
 }
