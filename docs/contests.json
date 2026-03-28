@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-03-28T16:42:12.320481+00:00",
+  "generated_at": "2026-03-28T18:52:10.726906+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "start": "2026-03-28T14:45:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Weekly Contest 495",
