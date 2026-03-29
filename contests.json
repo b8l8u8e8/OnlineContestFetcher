@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-03-29T10:41:46.937196+00:00",
+  "generated_at": "2026-03-29T13:10:38.025085+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 137",
-      "start": "2026-03-29T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Grand Contest 077",
-      "start": "2026-03-29T12:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1089 (Div. 2)",
@@ -70,6 +60,11 @@
       "site": "牛客",
       "name": "牛客周赛 Round 139",
       "start": "2026-04-12T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "Keysight Technologies Programming Contest（AtCoder Beginner Contest 454）",
+      "start": "2026-04-18T12:00:00+00:00"
     }
   ]
 }
