@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T20:46:18.038421+00:00",
+  "generated_at": "2026-04-06T22:44:21.235403+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -40,6 +40,16 @@
       "site": "牛客",
       "name": "牛客周赛 Round 139",
       "start": "2026-04-12T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-04-13T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-04-13T14:35:00+00:00"
     },
     {
       "site": "牛客",
