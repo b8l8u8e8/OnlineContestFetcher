@@ -1,20 +1,10 @@
 {
-  "generated_at": "2026-04-07T15:17:12.993159+00:00",
+  "generated_at": "2026-04-07T17:09:41.296966+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
-      "start": "2026-04-07T14:35:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客小白月赛131",
       "start": "2026-04-10T11:00:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Midnight Code Cup 2026 Qualification Round",
-      "start": "2026-04-11T12:00:00+00:00"
     },
     {
       "site": "AtCoder",
