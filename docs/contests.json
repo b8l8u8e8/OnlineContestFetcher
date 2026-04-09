@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T15:47:27.957569+00:00",
+  "generated_at": "2026-04-09T17:15:20.622481+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -23,12 +23,12 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round 1092 (Div. 1)",
+      "name": "Codeforces Round 1092 (Div. 1, Based on THUPC 2026 — Finals)",
       "start": "2026-04-12T05:35:00+00:00"
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round 1092 (Div. 2)",
+      "name": "Codeforces Round 1092 (Div. 2, Based on THUPC 2026 — Finals)",
       "start": "2026-04-12T05:35:00+00:00"
     },
     {
