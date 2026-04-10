@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T03:25:23.529849+00:00",
+  "generated_at": "2026-04-10T06:02:22.257274+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -55,6 +55,11 @@
       "site": "AtCoder",
       "name": "Keysight Technologies Programming Contest（AtCoder Beginner Contest 454）",
       "start": "2026-04-18T12:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客周赛 Round 140",
+      "start": "2026-04-19T11:00:00+00:00"
     },
     {
       "site": "Codeforces",
