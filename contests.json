@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-04-11T10:42:12.371848+00:00",
+  "generated_at": "2026-04-11T13:13:27.737212+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 453",
-      "start": "2026-04-11T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 180",
