@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T22:41:38.330581+00:00",
+  "generated_at": "2026-04-13T03:35:44.129857+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -48,13 +48,13 @@
     },
     {
       "site": "AtCoder",
-      "name": "AtCoder Regular Contest 218",
-      "start": "2026-05-03T12:00:00+00:00"
+      "name": "AtCoder Beginner Contest 456",
+      "start": "2026-05-02T12:00:00+00:00"
     },
     {
       "site": "AtCoder",
-      "name": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
-      "start": "2026-05-09T12:00:00+00:00"
+      "name": "AtCoder Regular Contest 218",
+      "start": "2026-05-03T12:00:00+00:00"
     }
   ]
 }
