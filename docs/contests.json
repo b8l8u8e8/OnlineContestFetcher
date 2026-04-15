@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T15:11:23.323537+00:00",
+  "generated_at": "2026-04-15T17:14:03.287268+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -50,6 +50,16 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest 218",
       "start": "2026-05-03T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-05-06T06:05:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-05-06T06:05:00+00:00"
     }
   ]
 }
