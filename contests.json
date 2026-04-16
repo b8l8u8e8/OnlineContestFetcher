@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T11:11:12.428401+00:00",
+  "generated_at": "2026-04-16T14:03:01.718873+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -40,6 +40,11 @@
       "site": "AtCoder",
       "name": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
       "start": "2026-04-25T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "start": "2026-04-25T14:35:00+00:00"
     },
     {
       "site": "AtCoder",
