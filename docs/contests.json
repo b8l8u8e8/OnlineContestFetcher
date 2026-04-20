@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-04-20T10:04:13.068180+00:00",
+  "generated_at": "2026-04-20T13:59:33.721523+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "start": "2026-04-21T14:35:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
-      "start": "2026-04-23T14:35:00+00:00"
     },
     {
       "site": "牛客",
@@ -28,7 +23,7 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "name": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "start": "2026-04-25T14:35:00+00:00"
     },
     {
