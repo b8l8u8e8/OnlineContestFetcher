@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T06:04:32.699986+00:00",
+  "generated_at": "2026-04-22T09:27:17.860576+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -78,12 +78,12 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 1)",
+      "name": "Codeforces Round (Div. 1,  Based on Zhili Cup 2026)",
       "start": "2026-05-06T06:05:00+00:00"
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round (Div. 2,  Based on Zhili Cup 2026)",
       "start": "2026-05-06T06:05:00+00:00"
     }
   ]
