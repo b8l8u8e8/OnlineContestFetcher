@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-04-24T09:50:03.514934+00:00",
+  "generated_at": "2026-04-24T11:12:26.890406+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客练习赛152",
-      "start": "2026-04-24T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
@@ -75,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest 218",
       "start": "2026-05-03T12:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "2026牛客五一集训派对day4",
+      "start": "2026-05-04T04:00:00+00:00"
     },
     {
       "site": "AtCoder",
