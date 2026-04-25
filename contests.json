@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-04-25T10:51:17.758454+00:00",
+  "generated_at": "2026-04-25T13:19:29.113464+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
-      "start": "2026-04-25T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 181",
@@ -90,6 +85,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2,  Based on Zhili Cup 2026)",
       "start": "2026-05-06T06:05:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
+      "start": "2026-05-09T12:00:00+00:00"
     }
   ]
 }
