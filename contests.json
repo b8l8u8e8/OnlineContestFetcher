@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-04-26T10:52:31.353216+00:00",
+  "generated_at": "2026-04-26T13:20:22.783880+00:00",
   "contests": [
     {
-      "site": "牛客",
-      "name": "牛客周赛 Round 141",
-      "start": "2026-04-26T11:00:00+00:00"
-    },
-    {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1095 (Div. 2)",
       "start": "2026-04-28T14:35:00+00:00"
     },
     {
@@ -55,6 +50,11 @@
       "site": "牛客",
       "name": "2026牛客五一集训派对day4",
       "start": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "2026牛客五一集训派对day5",
+      "start": "2026-05-05T04:00:00+00:00"
     },
     {
       "site": "AtCoder",
