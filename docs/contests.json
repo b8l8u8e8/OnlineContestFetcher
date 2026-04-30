@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-04-30T14:12:46.967004+00:00",
+  "generated_at": "2026-04-30T17:26:25.927525+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1096 (Div. 3)",
-      "start": "2026-04-30T14:35:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "2026牛客五一集训派对day1",
@@ -80,6 +75,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-05-16T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)",
+      "start": "2026-05-23T14:35:00+00:00"
     }
   ]
 }
