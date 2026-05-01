@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-05-01T03:58:55.463921+00:00",
+  "generated_at": "2026-05-01T06:42:19.340596+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "2026牛客五一集训派对day1",
-      "start": "2026-05-01T04:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "2026牛客五一集训派对day2",
@@ -60,6 +55,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2,  Based on Zhili Cup 2026)",
       "start": "2026-05-06T06:05:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客小白月赛132",
+      "start": "2026-05-08T11:00:00+00:00"
     },
     {
       "site": "AtCoder",
