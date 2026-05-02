@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T13:26:13.851924+00:00",
+  "generated_at": "2026-05-02T14:54:58.454170+00:00",
   "contests": [
     {
       "site": "力扣",
@@ -55,6 +55,11 @@
       "site": "AtCoder",
       "name": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
       "start": "2026-05-09T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Biweekly Contest 182",
+      "start": "2026-05-09T14:30:00+00:00"
     },
     {
       "site": "牛客",
