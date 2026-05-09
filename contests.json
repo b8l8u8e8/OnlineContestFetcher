@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T06:22:17.690776+00:00",
+  "generated_at": "2026-05-09T09:25:00.487347+00:00",
   "contests": [
     {
       "site": "AtCoder",
@@ -70,6 +70,11 @@
       "site": "Codeforces",
       "name": "Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)",
       "start": "2026-05-23T14:35:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客周赛 Round 145",
+      "start": "2026-05-24T11:00:00+00:00"
     },
     {
       "site": "牛客",
