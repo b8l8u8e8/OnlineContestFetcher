@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-05-09T11:01:56.917671+00:00",
+  "generated_at": "2026-05-09T13:40:06.917841+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
-      "start": "2026-05-09T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 182",
@@ -75,6 +70,11 @@
       "site": "牛客",
       "name": "牛客周赛 Round 145",
       "start": "2026-05-24T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Heuristic Contest 066",
+      "start": "2026-05-29T10:00:00+00:00"
     },
     {
       "site": "牛客",
