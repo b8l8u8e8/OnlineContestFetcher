@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T13:46:19.651288+00:00",
+  "generated_at": "2026-05-16T15:02:28.292162+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -40,6 +40,11 @@
       "site": "AtCoder",
       "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2026  (AtCoder Beginner Contest 459)",
       "start": "2026-05-23T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Biweekly Contest 183",
+      "start": "2026-05-23T14:30:00+00:00"
     },
     {
       "site": "Codeforces",
