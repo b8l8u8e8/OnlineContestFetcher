@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T19:58:56.003192+00:00",
+  "generated_at": "2026-05-19T21:40:42.770100+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -17,9 +17,19 @@
       "start": "2026-05-23T12:00:00+00:00"
     },
     {
+      "site": "力扣",
+      "name": "Biweekly Contest 183",
+      "start": "2026-05-23T14:30:00+00:00"
+    },
+    {
       "site": "Codeforces",
       "name": "Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)",
       "start": "2026-05-23T14:35:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 503",
+      "start": "2026-05-24T02:30:00+00:00"
     },
     {
       "site": "牛客",
