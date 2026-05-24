@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-05-24T08:38:40.170603+00:00",
+  "generated_at": "2026-05-24T11:20:26.819204+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 145",
-      "start": "2026-05-24T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Heuristic Contest 066",
