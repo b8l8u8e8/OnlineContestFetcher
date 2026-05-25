@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T21:16:27.799845+00:00",
+  "generated_at": "2026-05-25T23:11:57.117824+00:00",
   "contests": [
     {
       "site": "AtCoder",
@@ -50,6 +50,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 461",
       "start": "2026-06-06T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Educational Codeforces Round 191 (Rated for Div. 2)",
+      "start": "2026-06-09T14:35:00+00:00"
     },
     {
       "site": "AtCoder",
