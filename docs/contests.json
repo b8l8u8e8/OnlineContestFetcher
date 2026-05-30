@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-05-30T11:26:23.823091+00:00",
+  "generated_at": "2026-05-30T13:54:23.406612+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 460",
-      "start": "2026-05-30T12:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1101 (Div. 2)",
@@ -65,6 +60,11 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest 222",
       "start": "2026-06-14T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 463",
+      "start": "2026-06-20T12:00:00+00:00"
     },
     {
       "site": "牛客",
