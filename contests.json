@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-06-01T04:57:21.745991+00:00",
+  "generated_at": "2026-06-01T11:48:03.536808+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客2026年儿童节比赛",
-      "start": "2026-06-01T11:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客练习赛154",
@@ -58,8 +53,8 @@
     },
     {
       "site": "AtCoder",
-      "name": "第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）",
-      "start": "2026-06-27T12:00:00+00:00"
+      "name": "AtCoder Heuristic Contest 067",
+      "start": "2026-06-21T10:00:00+00:00"
     },
     {
       "site": "牛客",
