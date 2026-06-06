@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-06-06T11:38:32.595709+00:00",
+  "generated_at": "2026-06-06T13:57:41.817343+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 461",
-      "start": "2026-06-06T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 184",
@@ -37,34 +32,14 @@
       "start": "2026-06-12T11:00:00+00:00"
     },
     {
-      "site": "AtCoder",
-      "name": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
-      "start": "2026-06-13T12:00:00+00:00"
-    },
-    {
       "site": "牛客",
       "name": "牛客周赛 Round 148",
       "start": "2026-06-14T11:00:00+00:00"
     },
     {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest 222",
-      "start": "2026-06-14T12:00:00+00:00"
-    },
-    {
       "site": "牛客",
       "name": "牛客练习赛155",
       "start": "2026-06-19T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 463",
-      "start": "2026-06-20T12:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Heuristic Contest 067",
-      "start": "2026-06-21T10:00:00+00:00"
     },
     {
       "site": "牛客",
