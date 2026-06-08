@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T11:09:28.399786+00:00",
+  "generated_at": "2026-06-08T16:06:23.295199+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -10,6 +10,11 @@
       "site": "牛客",
       "name": "牛客挑战赛89",
       "start": "2026-06-12T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round 1103 (Div. 3)",
+      "start": "2026-06-12T14:35:00+00:00"
     },
     {
       "site": "AtCoder",
