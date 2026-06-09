@@ -1,25 +1,10 @@
 {
-  "generated_at": "2026-06-09T16:33:30.314853+00:00",
+  "generated_at": "2026-06-09T20:16:51.242498+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Educational Codeforces Round 191 (Rated for Div. 2)",
-      "start": "2026-06-09T14:35:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客挑战赛89",
       "start": "2026-06-12T11:00:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1103 (Div. 3)",
-      "start": "2026-06-12T14:35:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
-      "start": "2026-06-13T12:00:00+00:00"
     },
     {
       "site": "力扣",
@@ -32,34 +17,14 @@
       "start": "2026-06-14T11:00:00+00:00"
     },
     {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest 222",
-      "start": "2026-06-14T12:00:00+00:00"
-    },
-    {
       "site": "牛客",
       "name": "牛客练习赛155",
       "start": "2026-06-19T11:00:00+00:00"
     },
     {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 463",
-      "start": "2026-06-20T12:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Heuristic Contest 067",
-      "start": "2026-06-21T10:00:00+00:00"
-    },
-    {
       "site": "牛客",
       "name": "牛客周赛 Round 149",
       "start": "2026-06-21T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）",
-      "start": "2026-06-27T12:00:00+00:00"
     },
     {
       "site": "牛客",
