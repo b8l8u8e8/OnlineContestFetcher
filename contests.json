@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-06-12T15:29:50.970483+00:00",
+  "generated_at": "2026-06-12T18:11:58.459401+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1103 (Div. 3)",
-      "start": "2026-06-12T14:35:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
