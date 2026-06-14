@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-06-14T09:46:49.675076+00:00",
+  "generated_at": "2026-06-14T12:02:56.101948+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 148",
-      "start": "2026-06-14T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest 222",
-      "start": "2026-06-14T12:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Order Capital Round 2 (Codeforces Round, Div. 1 + Div. 2)",
@@ -55,6 +45,11 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest 223",
       "start": "2026-06-28T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 465",
+      "start": "2026-07-04T12:00:00+00:00"
     },
     {
       "site": "牛客",
