@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-06-20T23:15:27.088448+00:00",
+  "generated_at": "2026-06-21T04:59:35.525398+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 507",
-      "start": "2026-06-21T02:30:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Heuristic Contest 067",
@@ -35,6 +30,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-06-27T14:35:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 508",
+      "start": "2026-06-28T02:30:00+00:00"
     },
     {
       "site": "牛客",
