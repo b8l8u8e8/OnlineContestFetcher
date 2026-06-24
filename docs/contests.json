@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T16:25:36.883402+00:00",
+  "generated_at": "2026-06-24T19:55:18.283260+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -75,6 +75,11 @@
       "site": "AtCoder",
       "name": "World Tour Finals 2026 Algorithm",
       "start": "2026-07-09T02:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start": "2026-07-10T14:35:00+00:00"
     },
     {
       "site": "牛客",
