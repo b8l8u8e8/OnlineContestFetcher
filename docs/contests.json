@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T23:03:32.501432+00:00",
+  "generated_at": "2026-06-30T04:10:27.951674+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -50,6 +50,11 @@
       "site": "AtCoder",
       "name": "World Tour Finals 2026 Algorithm（Open Contest）",
       "start": "2026-07-09T02:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客挑战赛90",
+      "start": "2026-07-10T11:00:00+00:00"
     },
     {
       "site": "Codeforces",
