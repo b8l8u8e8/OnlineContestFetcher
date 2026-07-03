@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T07:29:01.836297+00:00",
+  "generated_at": "2026-07-03T10:44:06.839102+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -65,6 +65,11 @@
       "site": "牛客",
       "name": "牛客周赛 Round 152",
       "start": "2026-07-12T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-07-12T14:35:00+00:00"
     },
     {
       "site": "牛客",
