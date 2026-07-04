@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-04T10:17:51.246068+00:00",
+  "generated_at": "2026-07-04T13:47:44.770977+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 465",
-      "start": "2026-07-04T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 186",
@@ -60,6 +55,11 @@
       "site": "牛客",
       "name": "牛客周赛 Round 152",
       "start": "2026-07-12T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest-- 224",
+      "start": "2026-07-12T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
