@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-05T09:14:50.277786+00:00",
+  "generated_at": "2026-07-05T11:38:57.779148+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 151",
-      "start": "2026-07-05T11:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Educational Codeforces Round 192 (Rated for Div. 2)",
