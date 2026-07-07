@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-06T23:13:05.527691+00:00",
+  "generated_at": "2026-07-07T04:00:22.234249+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "World Tour Finals 2026 Heuristic",
-      "start": "2026-07-07T00:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "World Tour Finals 2026 Algorithm",
@@ -55,6 +50,11 @@
       "site": "牛客",
       "name": "2026牛客暑期多校训练营1",
       "start": "2026-07-17T04:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
+      "start": "2026-07-18T06:00:00+00:00"
     },
     {
       "site": "Codeforces",
