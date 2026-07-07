@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T12:30:14.787203+00:00",
+  "generated_at": "2026-07-07T16:35:37.667431+00:00",
   "contests": [
     {
       "site": "AtCoder",
@@ -45,6 +45,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 3)",
       "start": "2026-07-14T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)",
+      "start": "2026-07-16T14:35:00+00:00"
     },
     {
       "site": "牛客",
