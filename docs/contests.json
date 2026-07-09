@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-07-08T23:14:16.832284+00:00",
+  "generated_at": "2026-07-09T03:54:10.432822+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "World Tour Finals 2026 Algorithm",
-      "start": "2026-07-09T02:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "World Tour Finals 2026 Algorithm（Open Contest）",
-      "start": "2026-07-09T02:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客挑战赛90",
@@ -62,6 +52,11 @@
       "start": "2026-07-18T06:00:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 467",
+      "start": "2026-07-18T12:00:00+00:00"
+    },
+    {
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-07-18T14:35:00+00:00"
@@ -70,6 +65,11 @@
       "site": "牛客",
       "name": "牛客周赛 Round 153",
       "start": "2026-07-19T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest 225",
+      "start": "2026-07-19T12:00:00+00:00"
     },
     {
       "site": "牛客",
