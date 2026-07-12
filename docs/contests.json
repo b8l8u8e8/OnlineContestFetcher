@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-12T09:56:32.220765+00:00",
+  "generated_at": "2026-07-12T11:18:05.501033+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 152",
-      "start": "2026-07-12T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Regular Contest-- 224",
