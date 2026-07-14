@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T06:16:53.347710+00:00",
+  "generated_at": "2026-07-14T10:04:17.128118+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -70,6 +70,11 @@
       "site": "AtCoder",
       "name": "RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
       "start": "2026-07-31T10:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-08-01T11:35:00+00:00"
     }
   ]
 }
