@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-14T15:38:15.198193+00:00",
+  "generated_at": "2026-07-14T17:20:36.488849+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1109 (Div. 3)",
-      "start": "2026-07-14T14:35:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
@@ -33,7 +28,7 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1111 (Div. 2)",
       "start": "2026-07-18T14:35:00+00:00"
     },
     {
