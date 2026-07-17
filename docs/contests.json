@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-17T03:20:08.068585+00:00",
+  "generated_at": "2026-07-17T06:21:59.811871+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "2026牛客暑期多校训练营1",
-      "start": "2026-07-17T04:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
