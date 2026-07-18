@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-18T02:56:47.837405+00:00",
+  "generated_at": "2026-07-18T06:09:46.287343+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
-      "start": "2026-07-18T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 467",
@@ -65,6 +60,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-08-01T11:35:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 469",
+      "start": "2026-08-01T12:00:00+00:00"
     }
   ]
 }
