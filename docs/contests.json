@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-18T11:08:58.355373+00:00",
+  "generated_at": "2026-07-18T13:35:31.665896+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 467",
-      "start": "2026-07-18T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 187",
@@ -75,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 469",
       "start": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
+      "start": "2026-08-09T12:00:00+00:00"
     }
   ]
 }
