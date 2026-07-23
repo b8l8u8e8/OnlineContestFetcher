@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T06:34:34.413887+00:00",
+  "generated_at": "2026-07-23T10:29:16.465905+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -63,13 +63,13 @@
     },
     {
       "site": "AtCoder",
-      "name": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
-      "start": "2026-08-09T12:00:00+00:00"
+      "name": "JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
+      "start": "2026-08-08T12:00:00+00:00"
     },
     {
       "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 471",
-      "start": "2026-08-15T12:00:00+00:00"
+      "name": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
+      "start": "2026-08-09T12:00:00+00:00"
     }
   ]
 }
