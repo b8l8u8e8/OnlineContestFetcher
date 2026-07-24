@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-07-24T03:22:25.651812+00:00",
+  "generated_at": "2026-07-24T06:31:39.463008+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "2026牛客暑期多校训练营3",
-      "start": "2026-07-24T04:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 468",
