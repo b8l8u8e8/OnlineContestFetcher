@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:30:58.943432+00:00",
+  "generated_at": "2026-07-27T14:49:33.654209+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -44,6 +44,11 @@
     {
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
+      "start": "2026-08-06T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Educational Codeforces Round 193 (Rated for Div. 2)",
       "start": "2026-08-06T14:35:00+00:00"
     },
     {
