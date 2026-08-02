@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T06:38:37.455348+00:00",
+  "generated_at": "2026-08-02T10:02:37.243940+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -50,6 +50,16 @@
       "site": "AtCoder",
       "name": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
       "start": "2026-08-09T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-08-09T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-08-09T14:35:00+00:00"
     },
     {
       "site": "牛客",
