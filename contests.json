@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-08-01T22:59:21.796388+00:00",
+  "generated_at": "2026-08-02T03:32:27.435276+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 513",
-      "start": "2026-08-02T02:30:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 155",
@@ -40,6 +35,11 @@
       "site": "AtCoder",
       "name": "JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
       "start": "2026-08-08T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 514",
+      "start": "2026-08-09T02:30:00+00:00"
     },
     {
       "site": "牛客",
