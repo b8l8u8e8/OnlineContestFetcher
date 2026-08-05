@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-08-05T03:13:19.034810+00:00",
+  "generated_at": "2026-08-05T06:33:37.669992+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "2026牛客暑期多校训练营6",
-      "start": "2026-08-05T04:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1115 (Div. 2)",
@@ -80,6 +75,11 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest 227",
       "start": "2026-08-16T12:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "2026牛客暑期多校训练营10",
+      "start": "2026-08-19T04:00:00+00:00"
     },
     {
       "site": "AtCoder",
