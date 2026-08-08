@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-08-08T10:39:17.805524+00:00",
+  "generated_at": "2026-08-08T13:00:13.225049+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
-      "start": "2026-08-08T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Weekly Contest 514",
@@ -75,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 472",
       "start": "2026-08-22T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
+      "start": "2026-08-29T06:00:00+00:00"
     }
   ]
 }
