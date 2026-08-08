@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:00:13.225049+00:00",
+  "generated_at": "2026-08-08T14:37:22.934752+00:00",
   "contests": [
     {
       "site": "力扣",
@@ -45,6 +45,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 471",
       "start": "2026-08-15T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Biweekly Contest 189",
+      "start": "2026-08-15T14:30:00+00:00"
     },
     {
       "site": "牛客",
