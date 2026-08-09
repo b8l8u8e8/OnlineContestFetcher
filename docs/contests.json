@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-08-09T02:09:36.554155+00:00",
+  "generated_at": "2026-08-09T05:11:02.333763+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 514",
-      "start": "2026-08-09T02:30:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 156",
@@ -50,6 +45,11 @@
       "site": "力扣",
       "name": "Biweekly Contest 189",
       "start": "2026-08-15T14:30:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 515",
+      "start": "2026-08-16T02:30:00+00:00"
     },
     {
       "site": "牛客",
