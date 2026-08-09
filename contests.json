@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-08-09T16:42:30.652681+00:00",
+  "generated_at": "2026-08-09T18:50:16.630765+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1116 (Div. 1)",
-      "start": "2026-08-09T14:35:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1116 (Div. 2)",
-      "start": "2026-08-09T14:35:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "2026牛客暑期多校训练营8",
