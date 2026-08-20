@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-08-20T18:51:42.607010+00:00",
+  "generated_at": "2026-08-20T20:34:48.531882+00:00",
   "contests": [
+    {
+      "site": "Codeforces",
+      "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+      "start": "2026-08-14T11:00:00+00:00"
+    },
     {
       "site": "牛客",
       "name": "牛客小白月赛136",
@@ -35,6 +40,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 473",
       "start": "2026-08-29T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-08-29T14:35:00+00:00"
     },
     {
       "site": "牛客",
