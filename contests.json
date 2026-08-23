@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-08-23T10:29:18.272933+00:00",
+  "generated_at": "2026-08-23T12:51:28.477703+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
       "start": "2026-08-14T11:00:00+00:00"
-    },
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 158",
-      "start": "2026-08-23T11:00:00+00:00"
     },
     {
       "site": "牛客",
