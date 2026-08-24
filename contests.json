@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:54:44.102867+00:00",
+  "generated_at": "2026-08-24T10:41:50.364922+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -47,6 +47,11 @@
       "start": "2026-08-30T12:00:00+00:00"
     },
     {
+      "site": "牛客",
+      "name": "牛客挑战赛91",
+      "start": "2026-09-04T11:00:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "AtCoder Regular Contest-- 229",
       "start": "2026-09-05T12:00:00+00:00"
@@ -55,6 +60,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 474",
       "start": "2026-09-06T04:10:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客小白月赛137",
+      "start": "2026-09-11T11:00:00+00:00"
     }
   ]
 }
