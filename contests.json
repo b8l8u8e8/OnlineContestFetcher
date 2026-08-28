@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-08-28T06:02:32.383751+00:00",
+  "generated_at": "2026-08-28T20:07:47.873908+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
-      "start": "2026-08-14T11:00:00+00:00"
-    },
-    {
-      "site": "牛客",
-      "name": "牛客练习赛156",
-      "start": "2026-08-28T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
