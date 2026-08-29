@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-08-29T03:35:59.825397+00:00",
+  "generated_at": "2026-08-29T10:57:27.446325+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
-      "start": "2026-08-29T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 473",
@@ -70,6 +65,11 @@
       "site": "牛客",
       "name": "牛客小白月赛137",
       "start": "2026-09-11T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 475",
+      "start": "2026-09-12T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
