@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-08-29T10:57:27.446325+00:00",
+  "generated_at": "2026-08-29T16:34:14.053701+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 473",
-      "start": "2026-08-29T12:00:00+00:00"
-    },
-    {
-      "site": "力扣",
-      "name": "Biweekly Contest 190",
-      "start": "2026-08-29T14:30:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1118 (Div. 2)",
@@ -70,6 +60,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 475",
       "start": "2026-09-12T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Heuristic Contest 071",
+      "start": "2026-09-13T10:00:00+00:00"
     },
     {
       "site": "Codeforces",
