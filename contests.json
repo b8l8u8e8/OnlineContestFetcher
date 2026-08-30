@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-08-30T08:09:44.862780+00:00",
+  "generated_at": "2026-08-30T14:45:11.793517+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 159",
-      "start": "2026-08-30T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest++ 228",
-      "start": "2026-08-30T12:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客挑战赛91",
@@ -60,6 +50,11 @@
       "site": "AtCoder",
       "name": "AtCoder Heuristic Contest 071",
       "start": "2026-09-13T10:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest++ 230",
+      "start": "2026-09-20T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
