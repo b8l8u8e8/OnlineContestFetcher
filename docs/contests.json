@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-05T13:20:29.826275+00:00",
+  "generated_at": "2026-09-05T16:42:12.779505+00:00",
   "contests": [
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1119 (Div. 3)",
-      "start": "2026-09-05T14:35:00+00:00"
+      "start": "2026-09-05T14:45:00+00:00"
     },
     {
       "site": "力扣",
@@ -40,6 +40,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 475",
       "start": "2026-09-12T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Biweekly Contest 191",
+      "start": "2026-09-12T14:30:00+00:00"
     },
     {
       "site": "Codeforces",
