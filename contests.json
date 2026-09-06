@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-09-06T04:05:17.984301+00:00",
+  "generated_at": "2026-09-06T10:41:26.891411+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 474",
-      "start": "2026-09-06T04:10:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "第七回日本最強プログラマー学生選手権～Advance～",
-      "start": "2026-09-06T04:10:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 160",
@@ -75,6 +65,16 @@
       "site": "AtCoder",
       "name": "JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
       "start": "2026-09-19T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest++ 230",
+      "start": "2026-09-20T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
+      "start": "2026-09-25T10:00:00+00:00"
     },
     {
       "site": "牛客",
