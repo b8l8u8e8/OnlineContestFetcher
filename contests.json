@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T04:06:10.777598+00:00",
+  "generated_at": "2026-09-08T11:00:07.899990+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -60,6 +60,11 @@
       "site": "AtCoder",
       "name": "JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
       "start": "2026-09-19T12:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客周赛 Round 162",
+      "start": "2026-09-20T11:00:00+00:00"
     },
     {
       "site": "AtCoder",
