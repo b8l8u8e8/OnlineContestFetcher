@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:59:52.424382+00:00",
+  "generated_at": "2026-09-11T16:15:39.033696+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客小白月赛137",
-      "start": "2026-09-11T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 475",
