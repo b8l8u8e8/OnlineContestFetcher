@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:02:47.718873+00:00",
+  "generated_at": "2026-09-12T12:04:20.962800+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 475",
-      "start": "2026-09-12T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 191",
@@ -70,6 +65,11 @@
       "site": "牛客",
       "name": "牛客挑战赛92",
       "start": "2026-09-25T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
+      "start": "2026-09-26T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
