@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-09-18T07:16:23.611804+00:00",
+  "generated_at": "2026-09-18T12:51:28.509271+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客练习赛157",
-      "start": "2026-09-18T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
@@ -80,6 +75,11 @@
       "site": "牛客",
       "name": "2026牛客国庆集训派对day2",
       "start": "2026-10-02T04:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "2026牛客国庆集训派对day3",
+      "start": "2026-10-03T04:00:00+00:00"
     },
     {
       "site": "Codeforces",
