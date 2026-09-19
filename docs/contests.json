@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:24:16.777766+00:00",
+  "generated_at": "2026-09-19T17:06:42.276782+00:00",
   "contests": [
     {
       "site": "力扣",
@@ -40,6 +40,11 @@
       "site": "AtCoder",
       "name": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
       "start": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Biweekly Contest 192",
+      "start": "2026-09-26T14:30:00+00:00"
     },
     {
       "site": "Codeforces",
