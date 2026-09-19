@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-09-19T07:13:25.995264+00:00",
+  "generated_at": "2026-09-19T12:24:16.777766+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
-      "start": "2026-09-19T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Weekly Contest 520",
@@ -80,6 +75,11 @@
       "site": "牛客",
       "name": "2026牛客国庆集训派对day3",
       "start": "2026-10-03T04:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 478",
+      "start": "2026-10-03T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
