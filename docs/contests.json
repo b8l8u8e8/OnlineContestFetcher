@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-09-20T11:04:19.108989+00:00",
+  "generated_at": "2026-09-20T15:51:03.090338+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest++ 230",
-      "start": "2026-09-20T12:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1122 (Div. 3)",
@@ -80,6 +75,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 478",
       "start": "2026-10-03T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest 231",
+      "start": "2026-10-04T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
