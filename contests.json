@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-09-21T12:31:55.416508+00:00",
+  "generated_at": "2026-09-21T19:12:27.333894+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1122 (Div. 3)",
-      "start": "2026-09-21T14:35:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
@@ -90,6 +85,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-10-10T15:05:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-10-11T18:35:00+00:00"
     }
   ]
 }
