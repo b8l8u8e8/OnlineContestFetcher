@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-09-25T07:30:02.018993+00:00",
+  "generated_at": "2026-09-25T13:31:34.817035+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
-      "start": "2026-09-25T10:00:00+00:00"
-    },
-    {
-      "site": "牛客",
-      "name": "牛客挑战赛92",
-      "start": "2026-09-25T11:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1123 (Div. 2)",
@@ -80,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Regular Contest 231",
       "start": "2026-10-04T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Regular Contest++ 232",
+      "start": "2026-10-10T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
