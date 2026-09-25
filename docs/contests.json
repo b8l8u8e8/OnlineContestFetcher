@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-09-25T13:31:34.817035+00:00",
+  "generated_at": "2026-09-25T18:24:47.925550+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1123 (Div. 2)",
-      "start": "2026-09-25T14:35:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
@@ -90,6 +85,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-10-11T18:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "start": "2026-10-17T14:35:00+00:00"
     }
   ]
 }
