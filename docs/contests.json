@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:23:03.195335+00:00",
+  "generated_at": "2026-09-25T00:23:27.931857+00:00",
   "contests": [
     {
       "site": "AtCoder",
@@ -83,17 +83,17 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 1)",
+      "name": "Codeforces Round (Div. 1 + Div. 2)",
       "start": "2026-10-10T15:05:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "start": "2026-10-11T18:35:00+00:00"
     },
     {
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
-      "start": "2026-10-10T15:05:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round (Div. 1)",
       "start": "2026-10-11T18:35:00+00:00"
     }
   ]
