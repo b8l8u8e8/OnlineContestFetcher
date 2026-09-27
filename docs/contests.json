@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-09-27T07:55:41.105723+00:00",
+  "generated_at": "2026-09-27T13:47:58.007296+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 163",
-      "start": "2026-09-27T11:00:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Grand Contest 078",
-      "start": "2026-09-27T12:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "2026牛客国庆集训派对day1",
@@ -70,6 +60,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-10-11T18:35:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AAL Contest 001: Let's use segtree!",
+      "start": "2026-10-12T04:00:00+00:00"
     },
     {
       "site": "Codeforces",
