@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-02T23:39:09.576240+00:00",
+  "generated_at": "2026-10-03T04:51:52.996643+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "2026牛客国庆集训派对day3",
-      "start": "2026-10-03T04:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 478",
@@ -50,6 +45,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round 1125 (Div. 3)",
       "start": "2026-10-07T14:35:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客小白月赛138",
+      "start": "2026-10-09T11:00:00+00:00"
     },
     {
       "site": "AtCoder",
