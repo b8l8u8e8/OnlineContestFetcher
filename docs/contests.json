@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-10-04T00:26:19.693950+00:00",
+  "generated_at": "2026-10-04T08:15:32.869171+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 522",
-      "start": "2026-10-04T02:30:00+00:00"
-    },
-    {
-      "site": "牛客",
-      "name": "2026牛客国庆集训派对day4",
-      "start": "2026-10-04T04:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 164",
@@ -60,6 +50,11 @@
       "site": "Codeforces",
       "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "start": "2026-10-10T15:05:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 523",
+      "start": "2026-10-11T02:30:00+00:00"
     },
     {
       "site": "AtCoder",
