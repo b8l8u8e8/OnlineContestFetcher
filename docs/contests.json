@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:05:53.745493+00:00",
+  "generated_at": "2026-10-08T08:42:42.997066+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -27,6 +27,11 @@
       "start": "2026-10-11T02:30:00+00:00"
     },
     {
+      "site": "牛客",
+      "name": "牛客周赛 Round 165",
+      "start": "2026-10-11T11:00:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 479",
       "start": "2026-10-11T12:00:00+00:00"
@@ -45,6 +50,11 @@
       "site": "AtCoder",
       "name": "AAL Contest 001: Let's use segtree!",
       "start": "2026-10-12T04:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Educational Codeforces Round 195 (Rated for Div. 2)",
+      "start": "2026-10-14T14:35:00+00:00"
     },
     {
       "site": "AtCoder",
