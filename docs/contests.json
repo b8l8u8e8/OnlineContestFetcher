@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-09T05:40:08.576890+00:00",
+  "generated_at": "2026-10-09T12:57:58.482365+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客小白月赛138",
-      "start": "2026-10-09T11:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Regular Contest++ 232",
@@ -70,6 +65,11 @@
       "site": "Codeforces",
       "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
       "start": "2026-10-17T14:35:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客2026年1024程序员节娱乐赛",
+      "start": "2026-10-24T11:00:00+00:00"
     }
   ]
 }
