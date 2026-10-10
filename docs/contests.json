@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-10T05:26:24.102810+00:00",
+  "generated_at": "2026-10-10T12:15:32.093231+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Regular Contest++ 232",
-      "start": "2026-10-10T12:00:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Biweekly Contest 193",
@@ -85,6 +80,11 @@
       "site": "牛客",
       "name": "牛客2026年1024程序员节娱乐赛",
       "start": "2026-10-24T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
+      "start": "2026-10-30T10:00:00+00:00"
     },
     {
       "site": "牛客",
