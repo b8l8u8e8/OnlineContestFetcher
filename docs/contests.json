@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-10T23:22:30.567351+00:00",
+  "generated_at": "2026-10-11T05:16:37.895568+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 523",
-      "start": "2026-10-11T02:30:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 165",
@@ -55,6 +50,11 @@
       "site": "Codeforces",
       "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
       "start": "2026-10-17T14:35:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 524",
+      "start": "2026-10-18T02:30:00+00:00"
     },
     {
       "site": "牛客",
