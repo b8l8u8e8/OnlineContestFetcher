@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-17T00:14:32.510566+00:00",
+  "generated_at": "2026-10-17T06:47:33.044731+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Heuristic Contest 073",
-      "start": "2026-10-17T06:00:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 480",
@@ -70,6 +65,11 @@
       "site": "牛客",
       "name": "牛客小白月赛139",
       "start": "2026-10-30T11:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 482",
+      "start": "2026-10-31T12:00:00+00:00"
     }
   ]
 }
