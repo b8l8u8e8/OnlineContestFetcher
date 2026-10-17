@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-17T06:47:33.044731+00:00",
+  "generated_at": "2026-10-17T12:04:14.425670+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 480",
-      "start": "2026-10-17T12:00:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
@@ -57,6 +52,11 @@
       "start": "2026-10-26T14:35:00+00:00"
     },
     {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start": "2026-10-29T14:35:00+00:00"
+    },
+    {
       "site": "AtCoder",
       "name": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
       "start": "2026-10-30T10:00:00+00:00"
@@ -70,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 482",
       "start": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 483",
+      "start": "2026-11-07T12:00:00+00:00"
     }
   ]
 }
