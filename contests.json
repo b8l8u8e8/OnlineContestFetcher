@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-18T10:46:04.686921+00:00",
+  "generated_at": "2026-10-18T15:41:57.138211+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客周赛 Round 166",
-      "start": "2026-10-18T11:00:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客挑战赛93",
@@ -52,11 +47,6 @@
       "start": "2026-10-26T14:35:00+00:00"
     },
     {
-      "site": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "start": "2026-10-29T14:35:00+00:00"
-    },
-    {
       "site": "AtCoder",
       "name": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
       "start": "2026-10-30T10:00:00+00:00"
@@ -70,6 +60,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 482",
       "start": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "start": "2026-10-31T14:35:00+00:00"
     },
     {
       "site": "AtCoder",
