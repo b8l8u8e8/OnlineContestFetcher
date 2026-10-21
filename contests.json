@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:22:41.105843+00:00",
+  "generated_at": "2026-10-21T13:37:47.607498+00:00",
   "contests": [
     {
       "site": "牛客",
@@ -13,7 +13,7 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1129 (Div. 2)",
       "start": "2026-10-24T11:05:00+00:00"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1130 (Div. 2)",
       "start": "2026-10-26T14:35:00+00:00"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 3)",
+      "name": "Codeforces Round 1131 (Div. 3)",
       "start": "2026-10-31T14:35:00+00:00"
     },
     {
