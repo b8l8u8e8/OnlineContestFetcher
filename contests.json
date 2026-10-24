@@ -1,26 +1,6 @@
 {
-  "generated_at": "2026-10-24T10:41:01.304420+00:00",
+  "generated_at": "2026-10-24T15:43:17.499866+00:00",
   "contests": [
-    {
-      "site": "牛客",
-      "name": "牛客2026年1024程序员节娱乐赛",
-      "start": "2026-10-24T11:00:00+00:00"
-    },
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1129 (Div. 2)",
-      "start": "2026-10-24T11:05:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
-      "start": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "site": "力扣",
-      "name": "Biweekly Contest 194",
-      "start": "2026-10-24T14:30:00+00:00"
-    },
     {
       "site": "力扣",
       "name": "Weekly Contest 525",
@@ -90,6 +70,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-11-07T14:35:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Grand Contest 079",
+      "start": "2026-11-08T12:00:00+00:00"
     }
   ]
 }
