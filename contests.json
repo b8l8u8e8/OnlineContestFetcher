@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:24:08.148858+00:00",
+  "generated_at": "2026-10-26T04:16:12.560636+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -70,6 +70,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 484",
       "start": "2026-11-14T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Kotlin Heroes: Episode 15",
+      "start": "2026-11-27T14:35:00+00:00"
     }
   ]
 }
