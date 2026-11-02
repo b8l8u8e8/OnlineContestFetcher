@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:26:45.449224+00:00",
+  "generated_at": "2026-11-02T05:30:55.795601+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -62,9 +62,19 @@
       "start": "2026-11-14T12:00:00+00:00"
     },
     {
+      "site": "牛客",
+      "name": "牛客周赛 Round 170",
+      "start": "2026-11-15T11:00:00+00:00"
+    },
+    {
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-11-15T14:35:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "牛客挑战赛94",
+      "start": "2026-11-20T11:00:00+00:00"
     },
     {
       "site": "AtCoder",
