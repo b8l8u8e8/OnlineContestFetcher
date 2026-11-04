@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-11-04T14:10:42.115378+00:00",
+  "generated_at": "2026-11-04T21:46:32.867573+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Educational Codeforces Round 196 (Rated for Div. 2)",
-      "start": "2026-11-04T14:35:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客练习赛159",
@@ -13,7 +8,7 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1132 (Div. 2)",
       "start": "2026-11-06T14:35:00+00:00"
     },
     {
@@ -28,12 +23,12 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 1)",
+      "name": "Codeforces Round 1133 (Div. 1)",
       "start": "2026-11-07T14:35:00+00:00"
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1133 (Div. 2)",
       "start": "2026-11-07T14:35:00+00:00"
     },
     {
@@ -84,6 +79,11 @@
     {
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 1)",
+      "start": "2026-11-21T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
       "start": "2026-11-21T14:35:00+00:00"
     },
     {
