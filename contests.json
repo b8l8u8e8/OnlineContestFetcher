@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-11-06T11:57:18.053779+00:00",
+  "generated_at": "2026-11-06T19:15:21.552331+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1132 (Div. 2)",
-      "start": "2026-11-06T14:35:00+00:00"
-    },
     {
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 483",
@@ -90,6 +85,11 @@
       "site": "牛客",
       "name": "牛客练习赛160",
       "start": "2026-11-27T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Kotlin Heroes: Practice 15",
+      "start": "2026-12-01T14:30:00+00:00"
     }
   ]
 }
