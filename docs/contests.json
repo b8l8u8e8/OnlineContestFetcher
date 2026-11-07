@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-11-07T08:35:59.419491+00:00",
+  "generated_at": "2026-11-07T16:13:13.987725+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 483",
-      "start": "2026-11-07T12:00:00+00:00"
-    },
-    {
-      "site": "力扣",
-      "name": "Biweekly Contest 195",
-      "start": "2026-11-07T14:30:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1133 (Div. 1)",
@@ -35,6 +25,11 @@
       "site": "AtCoder",
       "name": "AtCoder Grand Contest 079",
       "start": "2026-11-08T12:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round 1134 (Div. 4)",
+      "start": "2026-11-12T14:35:00+00:00"
     },
     {
       "site": "牛客",
@@ -87,9 +82,9 @@
       "start": "2026-11-27T11:00:00+00:00"
     },
     {
-      "site": "Codeforces",
-      "name": "Kotlin Heroes: Practice 15",
-      "start": "2026-12-01T14:30:00+00:00"
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 486",
+      "start": "2026-11-28T12:00:00+00:00"
     }
   ]
 }
