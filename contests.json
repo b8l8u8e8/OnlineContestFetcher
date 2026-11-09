@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-11-09T01:33:28.118022+00:00",
+  "generated_at": "2026-11-09T09:31:13.786253+00:00",
   "contests": [
+    {
+      "site": "牛客",
+      "name": "交互、通信新题型测试比赛",
+      "start": "2026-11-10T11:00:00+00:00"
+    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1134 (Div. 4)",
@@ -80,6 +85,11 @@
       "site": "AtCoder",
       "name": "AtCoder Grand Contest 080",
       "start": "2026-12-13T12:00:00+00:00"
+    },
+    {
+      "site": "牛客",
+      "name": "2027牛客寒假算法基础集训营1",
+      "start": "2027-01-27T06:00:00+00:00"
     }
   ]
 }
