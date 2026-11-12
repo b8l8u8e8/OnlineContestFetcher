@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-11-12T09:35:13.642279+00:00",
+  "generated_at": "2026-11-12T18:02:08.063652+00:00",
   "contests": [
-    {
-      "site": "Codeforces",
-      "name": "Codeforces Round 1134 (Div. 4)",
-      "start": "2026-11-12T14:35:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客小白月赛140",
@@ -28,7 +23,7 @@
     },
     {
       "site": "Codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1135 (Div. 2)",
       "start": "2026-11-15T14:35:00+00:00"
     },
     {
