@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:23:33.668631+00:00",
+  "generated_at": "2026-11-12T09:35:13.642279+00:00",
   "contests": [
     {
       "site": "Codeforces",
@@ -67,14 +67,14 @@
       "start": "2026-11-28T12:00:00+00:00"
     },
     {
+      "site": "AtCoder",
+      "name": "AtCoder Heuristic Contest 075",
+      "start": "2026-11-29T10:00:00+00:00"
+    },
+    {
       "site": "Codeforces",
       "name": "Kotlin Heroes: Practice 15",
       "start": "2026-12-01T14:30:00+00:00"
-    },
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 487",
-      "start": "2026-12-05T12:00:00+00:00"
     },
     {
       "site": "Codeforces",
