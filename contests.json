@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:18:31.506165+00:00",
+  "generated_at": "2026-11-14T18:59:56.393082+00:00",
   "contests": [
     {
       "site": "力扣",
@@ -27,6 +27,11 @@
       "start": "2026-11-21T12:00:00+00:00"
     },
     {
+      "site": "力扣",
+      "name": "Biweekly Contest 196",
+      "start": "2026-11-21T14:30:00+00:00"
+    },
+    {
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 1)",
       "start": "2026-11-21T14:35:00+00:00"
@@ -35,6 +40,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-11-21T14:35:00+00:00"
+    },
+    {
+      "site": "Codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "start": "2026-11-22T09:05:00+00:00"
     },
     {
       "site": "AtCoder",
