@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-11-14T23:46:55.143190+00:00",
+  "generated_at": "2026-11-15T05:54:26.274086+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 528",
-      "start": "2026-11-15T02:30:00+00:00"
-    },
     {
       "site": "牛客",
       "name": "牛客周赛 Round 170",
@@ -40,6 +35,11 @@
       "site": "Codeforces",
       "name": "Codeforces Round (Div. 2)",
       "start": "2026-11-21T14:35:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 529",
+      "start": "2026-11-22T02:30:00+00:00"
     },
     {
       "site": "Codeforces",
