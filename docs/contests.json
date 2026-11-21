@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-11-21T06:40:58.702501+00:00",
+  "generated_at": "2026-11-21T16:00:25.513920+00:00",
   "contests": [
-    {
-      "site": "AtCoder",
-      "name": "AtCoder Beginner Contest 485",
-      "start": "2026-11-21T12:00:00+00:00"
-    },
-    {
-      "site": "力扣",
-      "name": "Biweekly Contest 196",
-      "start": "2026-11-21T14:30:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1136 (Div. 1)",
@@ -73,8 +63,18 @@
     },
     {
       "site": "Codeforces",
+      "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
+      "start": "2026-12-08T11:00:00+00:00"
+    },
+    {
+      "site": "Codeforces",
       "name": "Kotlin Heroes: Episode 15",
       "start": "2026-12-08T14:35:00+00:00"
+    },
+    {
+      "site": "AtCoder",
+      "name": "AtCoder Beginner Contest 488",
+      "start": "2026-12-12T12:00:00+00:00"
     },
     {
       "site": "牛客",
