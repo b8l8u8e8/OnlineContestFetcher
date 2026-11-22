@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-11-21T22:57:42.819492+00:00",
+  "generated_at": "2026-11-22T06:09:22.562135+00:00",
   "contests": [
-    {
-      "site": "力扣",
-      "name": "Weekly Contest 529",
-      "start": "2026-11-22T02:30:00+00:00"
-    },
     {
       "site": "Codeforces",
       "name": "Codeforces Round 1137 (Div. 2)",
@@ -30,6 +25,11 @@
       "site": "AtCoder",
       "name": "AtCoder Beginner Contest 486",
       "start": "2026-11-28T12:00:00+00:00"
+    },
+    {
+      "site": "力扣",
+      "name": "Weekly Contest 530",
+      "start": "2026-11-29T02:30:00+00:00"
     },
     {
       "site": "AtCoder",
